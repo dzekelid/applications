@@ -1,5 +1,4 @@
 ---
----
 name: Clickatell
 description: Clickatell is a privately held mobile communications company founded
   in 2000 with a presence in US and Africa.  Clickatell delivers short message service
@@ -62,6 +61,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
-...
-
 ---
