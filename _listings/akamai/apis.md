@@ -1,5 +1,4 @@
 ---
----
 name: Akamai
 description: Akamai Technologies, Inc. is a content delivery network or CDN and cloud
   services provider headquartered in Cambridge, Massachusetts, in the United States.
@@ -25,7 +24,16 @@ created: "2018-02-24"
 modified: "2018-02-24"
 url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/akamai/apis.yaml
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Akamai API
+  description: Akamai Technologies, Inc
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: https:///
+  tags: Applications
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/akamai/send-email-put.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
@@ -50,6 +58,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
-...
-
 ---
