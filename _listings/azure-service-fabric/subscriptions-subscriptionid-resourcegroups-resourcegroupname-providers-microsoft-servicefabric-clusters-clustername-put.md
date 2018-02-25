@@ -1,5 +1,4 @@
 ---
----
 swagger: "2.0"
 info:
   title: ServiceFabricManagementClient
@@ -337,6 +336,7 @@ definitions:
       tags:
         description: This is a default description.
         type: get
+x-collection-name: Azure Service Fabric
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0
@@ -350,6 +350,4 @@ x-streamrank:
   last_run: ""
   days_run: 0
   minute_run: 0
-...
-
 ---
