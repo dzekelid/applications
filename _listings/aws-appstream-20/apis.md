@@ -1,5 +1,4 @@
 ---
----
 name: AWS AppStream 2.0
 description: Amazon AppStream 2.0 is a fully managed, secure application streaming
   service that allows you to stream desktop applications from AWS to any device running
@@ -17,7 +16,16 @@ created: "2018-02-24"
 modified: "2018-02-24"
 url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/aws-appstream-20/apis.yaml
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS AppStream 2.0 API
+  description: Amazon AppStream 2
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/appstream2_try_it_now_2_big.png
+  humanURL: ""
+  baseURL: :///
+  tags: Applications
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/aws-appstream-20/action-updatestack-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/appstream2/latest/APIReference/
@@ -36,6 +44,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
-...
-
 ---
