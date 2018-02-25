@@ -1,5 +1,4 @@
 ---
----
 name: DeployGate
 description: ' DeployGate is the fastest and easiest way to share iOS/Android apps
   in development to your team members and beta testers.n'
@@ -29,6 +28,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
-...
-
 ---
