@@ -1,5 +1,4 @@
 ---
----
 name: Azure Service Fabric
 description: Service Fabric is a microservices platform used to build scalable, reliable,
   and easily managed applications for the cloud. Addressing the significant challenges
@@ -28,76 +27,6 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/azure-service-fabric/providers-microsoft-servicefabric-operations-get.md
-- name: Azure Service Fabric API
-  description: Service Fabric is a microservices platform used to build scalable,
-    reliable, and easily managed applications for the cloud
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/service-fabric-02.png
-  humanURL: ""
-  baseURL: ://management.azure.com//
-  tags: Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/azure-service-fabric/subscriptions-subscriptionid-providers-microsoft-servicefabric-clusters-get.md
-- name: Azure Service Fabric API
-  description: Service Fabric is a microservices platform used to build scalable,
-    reliable, and easily managed applications for the cloud
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/service-fabric-02.png
-  humanURL: ""
-  baseURL: ://management.azure.com//
-  tags: Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/azure-service-fabric/subscriptions-subscriptionid-providers-microsoft-servicefabric-locations-location-environments-environment-clusterversions-get.md
-- name: Azure Service Fabric API
-  description: Service Fabric is a microservices platform used to build scalable,
-    reliable, and easily managed applications for the cloud
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/service-fabric-02.png
-  humanURL: ""
-  baseURL: ://management.azure.com//
-  tags: Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/azure-service-fabric/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-servicefabric-clusters-get.md
-- name: Azure Service Fabric API
-  description: Service Fabric is a microservices platform used to build scalable,
-    reliable, and easily managed applications for the cloud
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/service-fabric-02.png
-  humanURL: ""
-  baseURL: ://management.azure.com//
-  tags: Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/azure-service-fabric/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-servicefabric-clusters-clustername-delete.md
-- name: Azure Service Fabric API
-  description: Service Fabric is a microservices platform used to build scalable,
-    reliable, and easily managed applications for the cloud
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/service-fabric-02.png
-  humanURL: ""
-  baseURL: ://management.azure.com//
-  tags: Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/azure-service-fabric/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-servicefabric-clusters-clustername-get.md
-- name: Azure Service Fabric API
-  description: Service Fabric is a microservices platform used to build scalable,
-    reliable, and easily managed applications for the cloud
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/service-fabric-02.png
-  humanURL: ""
-  baseURL: ://management.azure.com//
-  tags: Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/azure-service-fabric/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-servicefabric-clusters-clustername-patch.md
-- name: Azure Service Fabric API
-  description: Service Fabric is a microservices platform used to build scalable,
-    reliable, and easily managed applications for the cloud
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/service-fabric-02.png
-  humanURL: ""
-  baseURL: ://management.azure.com//
-  tags: Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/azure-service-fabric/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-servicefabric-clusters-clustername-put.md
 x-common:
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/service-fabric/
@@ -114,6 +43,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
-...
-
 ---
