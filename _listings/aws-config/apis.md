@@ -1,5 +1,4 @@
 ---
----
 name: AWS Config
 description: AWS Config is a fully managed service that provides you with an AWS resource
   inventory, configuration history, and configuration change notifications to enable
@@ -24,7 +23,18 @@ created: "2018-02-24"
 modified: "2018-02-24"
 url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/aws-config/apis.yaml
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS Config API
+  description: AWS Config is a fully managed service that provides you with an AWS
+    resource inventory, configuration history, and configuration change notifications
+    to enable security and governance
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSConfig.png
+  humanURL: ""
+  baseURL: :///
+  tags: Applications
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/aws-config/action-stopconfigurationrecorder-get.md
 x-common:
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/cli/latest/reference/configservice/index.html
@@ -51,6 +61,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
-...
-
 ---
