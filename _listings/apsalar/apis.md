@@ -1,5 +1,4 @@
 ---
----
 name: Apsalar
 description: 'Apsalar provides Mobile Engagement Management solutions for mobile apps.
   Mobile app marketers can acquire, analyze, and remarket to engaged users through
@@ -39,6 +38,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
-...
-
 ---
