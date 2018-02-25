@@ -1,5 +1,4 @@
 ---
----
 name: Atooma
 description: Atooma allows your smartphone to perform certain actions when certain
   conditions are fulfilled. Shape your phone from your everyday life. You can set
@@ -44,6 +43,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
-...
-
 ---
