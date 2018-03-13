@@ -38,7 +38,7 @@ apis:
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/heroku/apps-name-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/heroku/apps-name-delete.md
 x-common:
 - type: x-base
   url: https://api.heroku.com
