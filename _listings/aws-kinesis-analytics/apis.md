@@ -33,7 +33,7 @@ apis:
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/aws-kinesis-analytics/action-addapplicationoutput-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/aws-kinesis-analytics/action-addapplicationreferencedatasource-get.md
 x-common:
 - type: x-authentication
   url: https://docs.aws.amazon.com/kinesisanalytics/latest/dev/authentication-and-access-control.html
