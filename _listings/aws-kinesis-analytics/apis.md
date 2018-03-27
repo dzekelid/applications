@@ -22,18 +22,7 @@ created: "2018-03-27"
 modified: "2018-03-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/apis.yaml
 specificationVersion: "0.14"
-apis:
-- name: AWS Kinesis Analytics API
-  description: Amazon Kinesis Analytics is the easiest way to process streaming data
-    in real time with standard SQL without having to learn new programming languages
-    or processing frameworks
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
-  humanURL: ""
-  baseURL: :///
-  tags: Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/action-describeapplication-get.md
+apis: []
 x-common:
 - type: x-authentication
   url: https://docs.aws.amazon.com/kinesisanalytics/latest/dev/authentication-and-access-control.html
