@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=SetPlatformApplicationAttributes&k=1:
+  /?Action=SetPlatformApplicationAttributes:
     get:
       summary: ' Set Platform Application Attributes '
       description: |-
