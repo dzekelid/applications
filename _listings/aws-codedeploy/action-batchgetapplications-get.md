@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=BatchGetApplications&k=1:
+  /?Action=BatchGetApplications:
     get:
       summary: ' Batch Get Applications '
       description: Gets information about one or more applications
