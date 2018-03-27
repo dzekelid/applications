@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=StopApplication&k=1:
+  /?Action=StopApplication:
     get:
       summary: ' Stop Application '
       description: Stops the application from processing input data
