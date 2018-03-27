@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeApplication&k=1:
+  /?Action=DescribeApplication:
     get:
       summary: ' Describe Application '
       description: Returns information about a specific Amazon Kinesis Analytics application
