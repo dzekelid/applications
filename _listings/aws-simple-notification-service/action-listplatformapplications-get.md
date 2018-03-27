@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListPlatformApplications&k=1:
+  /?Action=ListPlatformApplications:
     get:
       summary: ' List Platform Applications '
       description: |-
