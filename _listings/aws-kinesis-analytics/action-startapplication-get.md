@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=StartApplication&k=1:
+  /?Action=StartApplication:
     get:
       summary: ' Start Application '
       description: Starts the specified Amazon Kinesis Analytics application
