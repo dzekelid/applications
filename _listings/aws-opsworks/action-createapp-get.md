@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=CreateApp&k=1:
+  /?Action=CreateApp:
     get:
       summary: ' Create App '
       description: Creates an app for a specified stack
