@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=AddApplicationReferenceDataSource&k=1:
+  /?Action=AddApplicationReferenceDataSource:
     get:
       summary: ' Add Application Reference Data Source '
       description: Adds a reference data source to an existing application
