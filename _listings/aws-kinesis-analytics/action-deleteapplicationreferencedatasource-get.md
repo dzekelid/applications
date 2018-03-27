@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeleteApplicationReferenceDataSource&k=1:
+  /?Action=DeleteApplicationReferenceDataSource:
     get:
       summary: ' Delete Application Reference Data Source '
       description: Deletes a reference data source configuration from the specified
