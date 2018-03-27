@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeleteApplicationOutput&k=1:
+  /?Action=DeleteApplicationOutput:
     get:
       summary: ' Delete Application Output '
       description: Deletes output destination configuration from your application
