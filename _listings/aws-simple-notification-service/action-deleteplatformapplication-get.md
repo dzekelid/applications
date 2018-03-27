@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeletePlatformApplication&k=1:
+  /?Action=DeletePlatformApplication:
     get:
       summary: ' Delete Platform Application '
       description: |-
