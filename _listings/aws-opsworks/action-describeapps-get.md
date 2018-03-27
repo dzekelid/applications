@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeApps&k=1:
+  /?Action=DescribeApps:
     get:
       summary: ' Describe Apps '
       description: Requests a description of a specified set of apps
