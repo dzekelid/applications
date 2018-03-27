@@ -15,9 +15,9 @@ tags:
 - SDK
 - Orchestration
 - Amazon Web Services
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/aws-codedeploy/apis.yaml
+created: "2018-03-27"
+modified: "2018-03-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: AWS CodeDeploy API
@@ -29,7 +29,7 @@ apis:
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/applications/master/_listings/aws-codedeploy/action-updateapplication-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/action-batchgetapplications-get.md
 x-common:
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/cli/latest/reference/codedeploy
