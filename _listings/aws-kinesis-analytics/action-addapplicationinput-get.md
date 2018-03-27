@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=AddApplicationInput&k=1:
+  /?Action=AddApplicationInput:
     get:
       summary: ' Add Application Input '
       description: Adds a streaming source to your Amazon Kinesis application
