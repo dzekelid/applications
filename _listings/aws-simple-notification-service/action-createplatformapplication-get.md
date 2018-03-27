@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=CreatePlatformApplication&k=1:
+  /?Action=CreatePlatformApplication:
     get:
       summary: ' Create Platform Application '
       description: |-
