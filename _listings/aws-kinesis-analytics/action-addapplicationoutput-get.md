@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=AddApplicationOutput&k=1:
+  /?Action=AddApplicationOutput:
     get:
       summary: ' Add Application Output '
       description: Adds an external destination to your Amazon Kinesis Analytics application
