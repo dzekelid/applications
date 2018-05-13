@@ -35,17 +35,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/action-setplatformapplicationattributes-get.md
-- name: AWS Simple Notification Service API Get Platform Application Attributes
+- name: AWS Simple Notification Service API List Platform Applications
   description: |-
-    Retrieves the attributes of the platform application object for the supported push
-          notification services, such as APNS and GCM.
+    Lists the platform application objects for the supported push notification services, such as
+          APNS and GCM.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
   humanURL: https://aws.amazon.com/sns/
   baseURL: http:://{host}//
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/action-getplatformapplicationattributes-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/action-listplatformapplications-get.md
 x-common:
 - type: x-change-log
   url: http://aws.amazon.com/releasenotes/Amazon-SN
