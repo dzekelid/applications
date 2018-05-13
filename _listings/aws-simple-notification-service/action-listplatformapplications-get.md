@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Simple Notification Service API
+  title: AWS Simple Notification Service API List Platform Applications
   version: 1.0.0
+  description: |-
+    Lists the platform application objects for the supported push notification services, such as
+          APNS and GCM.
 schemes:
 - http
 produces:
