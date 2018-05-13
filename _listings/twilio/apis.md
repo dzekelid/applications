@@ -44,17 +44,19 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-connectapps-format-get.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-connectapps-format-get-postman.md
-- name: Twilio Get Connected App
-  description: Get the properties of a Connect App.
+- name: Twilio Add Connected App
+  description: Tries to update the Connect Apps properties, and returns the updatednresource
+    representation if successful. The returned response is identicalnto that returned
+    above when making a GET request.n
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
   humanURL: http://www.twilio.com
   baseURL: https://api.twilio.com//2010-04-01/
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-connectapps-connectappsid-format-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-connectapps-connectappsid-format-post.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-connectapps-connectappsid-format-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-connectapps-connectappsid-format-post-postman.md
 x-common:
 - type: x-net-library
   url: https://www.twilio.com/docs/csharp/install
