@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Kinesis Analytics API
+  title: AWS Kinesis Analytics API Delete Application
   version: 1.0.0
+  description: Deletes the specified application.
 schemes:
 - http
 produces:
