@@ -39,15 +39,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-name-delete.md
-- name: Heroku Get Applications
-  description: Get applications.
+- name: Heroku Add Applications
+  description: Add applications.
   image: https://avatars3.githubusercontent.com/u/23211?v=4
   humanURL: https://www.heroku.com/
   baseURL: https://api.heroku.com//
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-post.md
 x-common:
 - type: x-base
   url: https://api.heroku.com
