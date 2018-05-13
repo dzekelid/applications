@@ -16,7 +16,7 @@ paths:
       description: Create a New Application
       operationId: configsaasregistrationv1applicationscontractid
       parameters:
-      - in: String
+      - in: query
         name: contractId
         description: such as A-1234
         type: string
