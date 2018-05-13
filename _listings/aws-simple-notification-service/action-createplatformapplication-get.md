@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Simple Notification Service API
+  title: AWS Simple Notification Service API Create Platform Application
   version: 1.0.0
+  description: |-
+    Creates a platform application object for one of the supported push notification services,
+          such as APNS and GCM, to which devices and mobile apps may register.
 schemes:
 - http
 produces:
