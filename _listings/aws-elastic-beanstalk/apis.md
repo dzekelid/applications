@@ -32,15 +32,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/action-updateapplicationversion-get.md
-- name: AWS Elastic Beanstalk API Create Application Version
-  description: Creates an application version for the specified application.
+- name: AWS Elastic Beanstalk API Delete Application
+  description: |-
+    Deletes the specified application along with all associated versions and
+          configurations.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
   humanURL: https://aws.amazon.com/elasticbeanstalk/
   baseURL: http:://{host}//
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/action-createapplicationversion-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/action-deleteapplication-get.md
 x-common:
 - type: x-change-log
   url: http://aws.amazon.com/releasenotes/AWS-Elastic-Beanstalk
