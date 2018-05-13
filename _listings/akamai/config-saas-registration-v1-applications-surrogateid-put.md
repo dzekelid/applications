@@ -16,11 +16,11 @@ paths:
       description: Modify an Application
       operationId: configsaasregistrationv1applicationssurrogateidcontractid
       parameters:
-      - in: String
+      - in: query
         name: contractId
         description: such as A-1234
         type: string
-      - in: Integer
+      - in: query
         name: surrogateId
         description: such as 123
         type: string
