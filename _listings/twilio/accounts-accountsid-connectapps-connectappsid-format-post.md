@@ -1,12 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: Twilio
-  description: Twilio is a cloud communications Infrastructure as a Service(IaaS)
-    company based in San Francisco, California. Twilio allows software developers
-    to programmatically make and receive phone calls and send and receive text messages
-    using its web service APIs. Twilio's services are accessed over HTTP and are billed
-    based on usage.
+  title: Twilio Add Connected App
+  description: Tries to update the Connect Apps properties, and returns the updatednresource
+    representation if successful. The returned response is identicalnto that returned
+    above when making a GET request.n
   termsOfService: https://www.twilio.com/legal/tos
   version: v1
 host: api.twilio.com
