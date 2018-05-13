@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Kinesis Analytics API
+  title: AWS Kinesis Analytics API Stop Application
   version: 1.0.0
+  description: Stops the application from processing input data.
 schemes:
 - http
 produces:
