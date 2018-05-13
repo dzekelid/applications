@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Kinesis Analytics API
+  title: AWS Kinesis Analytics API Add Application Input
   version: 1.0.0
+  description: Adds a streaming source to your Amazon Kinesis application.
 schemes:
 - http
 produces:
