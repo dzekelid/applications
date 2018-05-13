@@ -32,17 +32,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/action-updateapplicationversion-get.md
-- name: AWS Elastic Beanstalk API Create Application
-  description: |-
-    Creates an application that has one configuration template named default
-          and no application versions.
+- name: AWS Elastic Beanstalk API Create Application Version
+  description: Creates an application version for the specified application.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
   humanURL: https://aws.amazon.com/elasticbeanstalk/
   baseURL: http:://{host}//
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/action-createapplication-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/action-createapplicationversion-get.md
 x-common:
 - type: x-change-log
   url: http://aws.amazon.com/releasenotes/AWS-Elastic-Beanstalk
