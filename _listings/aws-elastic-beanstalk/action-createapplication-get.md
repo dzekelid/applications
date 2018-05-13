@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Elastic Beanstalk API
+  title: AWS Elastic Beanstalk API Create Application
   version: 1.0.0
+  description: |-
+    Creates an application that has one configuration template named default
+          and no application versions.
 schemes:
 - http
 produces:
