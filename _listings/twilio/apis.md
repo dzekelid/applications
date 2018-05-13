@@ -44,17 +44,17 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-connectapps-format-get.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-connectapps-format-get-postman.md
-- name: Twilio Delete Application
-  description: Delete Application
+- name: Twilio Get Application
+  description: Get application instance resource.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
   humanURL: http://www.twilio.com
   baseURL: https://api.twilio.com//2010-04-01/
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-applications-applicationsid-format-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-applications-applicationsid-format-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-applications-applicationsid-format-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-applications-applicationsid-format-get-postman.md
 x-common:
 - type: x-net-library
   url: https://www.twilio.com/docs/csharp/install
