@@ -20,8 +20,8 @@ tags:
 - Bots
 - Applications
 - API LIfeycle
-created: "2018-03-27"
-modified: "2018-03-27"
+created: "2018-05-12"
+modified: "2018-05-12"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/akamai/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -33,7 +33,7 @@ apis:
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/akamai/config-saas-registration-v1-applications-surrogateid-put.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/akamai/config-saas-registration-v1-applications-get.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
