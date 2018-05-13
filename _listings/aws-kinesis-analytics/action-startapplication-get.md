@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Kinesis Analytics API
+  title: AWS Kinesis Analytics API Start Application
   version: 1.0.0
+  description: Starts the specified Amazon Kinesis Analytics application.
 schemes:
 - http
 produces:
