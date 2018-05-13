@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Kinesis Analytics API
+  title: AWS Kinesis Analytics API Delete Application Reference Data Source
   version: 1.0.0
+  description: Deletes a reference data source configuration from the specified application
+    configuration.
 schemes:
 - http
 produces:
