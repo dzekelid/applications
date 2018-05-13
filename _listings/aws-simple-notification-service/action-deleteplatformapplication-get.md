@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Simple Notification Service API
+  title: AWS Simple Notification Service API Delete Platform Application
   version: 1.0.0
+  description: |-
+    Deletes a platform application object for one of the supported push notification services,
+          such as APNS and GCM.
 schemes:
 - http
 produces:
