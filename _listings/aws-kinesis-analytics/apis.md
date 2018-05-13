@@ -34,15 +34,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/action-updateapplication-get.md
-- name: AWS Kinesis Analytics API Start Application
-  description: Starts the specified Amazon Kinesis Analytics application.
+- name: AWS Kinesis Analytics API Stop Application
+  description: Stops the application from processing input data.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
   humanURL: https://aws.amazon.com/kinesis/analytics/
   baseURL: http:://{host}//
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/action-startapplication-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/action-stopapplication-get.md
 x-common:
 - type: x-authentication
   url: https://docs.aws.amazon.com/kinesisanalytics/latest/dev/authentication-and-access-control.html
