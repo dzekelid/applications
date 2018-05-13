@@ -32,15 +32,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/action-updateapplicationversion-get.md
-- name: AWS Elastic Beanstalk API Describe Applications
-  description: Returns the descriptions of existing applications.
+- name: AWS Elastic Beanstalk API Update Application
+  description: Updates the specified application to have the specified properties.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
   humanURL: https://aws.amazon.com/elasticbeanstalk/
   baseURL: http:://{host}//
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/action-describeapplications-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/action-updateapplication-get.md
 x-common:
 - type: x-change-log
   url: http://aws.amazon.com/releasenotes/AWS-Elastic-Beanstalk
