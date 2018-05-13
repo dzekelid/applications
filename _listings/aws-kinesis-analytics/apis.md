@@ -34,7 +34,32 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/action-updateapplication-get.md
+- name: AWS Kinesis Analytics API Add Application Input
+  description: Adds a streaming source to your Amazon Kinesis application.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
+  humanURL: https://aws.amazon.com/kinesis/analytics/
+  baseURL: http:://{host}//
+  tags: Applications
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/action-addapplicationinput-get.md
 x-common:
+- type: x-authentication
+  url: https://docs.aws.amazon.com/kinesisanalytics/latest/dev/authentication-and-access-control.html
+- type: x-best-practices
+  url: https://docs.aws.amazon.com/kinesisanalytics/latest/dev/best-practices.html
+- type: x-console
+  url: https://console.aws.amazon.com/kinesisanalytics/home
+- type: x-documentation
+  url: https://docs.aws.amazon.com/kinesisanalytics/latest/dev/API_Reference.html
+- type: x-faq
+  url: https://aws.amazon.com/kinesis/analytics/faqs/
+- type: x-getting-started
+  url: https://aws.amazon.com/kinesis/analytics/getting-started/
+- type: x-pricing
+  url: https://aws.amazon.com/kinesis/analytics/pricing/
+- type: x-website
+  url: https://aws.amazon.com/kinesis/analytics/
 - type: x-authentication
   url: https://docs.aws.amazon.com/kinesisanalytics/latest/dev/authentication-and-access-control.html
 - type: x-best-practices
