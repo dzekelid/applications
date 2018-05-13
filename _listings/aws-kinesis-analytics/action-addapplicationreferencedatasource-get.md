@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Kinesis Analytics API
+  title: AWS Kinesis Analytics API Add Application Reference Data Source
   version: 1.0.0
+  description: Adds a reference data source to an existing application.
 schemes:
 - http
 produces:
