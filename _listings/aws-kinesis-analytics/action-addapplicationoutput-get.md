@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Kinesis Analytics API
+  title: AWS Kinesis Analytics API Add Application Output
   version: 1.0.0
+  description: Adds an external destination to your Amazon Kinesis Analytics application.
 schemes:
 - http
 produces:
