@@ -1,8 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: Heroku
-  description: Manage your Heroku apps, configs, collaborators &amp; resources
+  title: Heroku Delete Applications Name
+  description: Delete applications name.
   version: "1"
 host: api.heroku.com
 basePath: /
