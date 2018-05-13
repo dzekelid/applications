@@ -39,15 +39,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-name-delete.md
-- name: Heroku Parameters Applications Addons
-  description: Parameters applications addons.
+- name: Heroku Delete Applications Addons
+  description: Uninstall an addon from an app.
   image: https://avatars3.githubusercontent.com/u/23211?v=4
   humanURL: https://www.heroku.com/
   baseURL: https://api.heroku.com//
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-app-addons-addon-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-app-addons-addon-delete.md
 x-common:
 - type: x-base
   url: https://api.heroku.com
