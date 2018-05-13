@@ -11,8 +11,8 @@ tags:
 - Microsoft
 - Data
 - Analysis
-created: "2018-03-27"
-modified: "2018-03-27"
+created: "2018-05-12"
+modified: "2018-05-12"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-hdinsight/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -25,7 +25,9 @@ apis:
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-hdinsight/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-hdinsight-clusters-clustername-applications-applicationname-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-hdinsight/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-hdinsight-clusters-clustername-applications-get.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-hdinsight/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-hdinsight-clusters-clustername-applications-get-postman.md
 x-common:
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/hdinsight/
