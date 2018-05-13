@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS OpsWorks API
+  title: AWS OpsWorks API Create App
   version: 1.0.0
+  description: Creates an app for a specified stack.
 schemes:
 - http
 produces:
