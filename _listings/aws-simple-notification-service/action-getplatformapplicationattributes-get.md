@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Simple Notification Service API
+  title: AWS Simple Notification Service API Get Platform Application Attributes
   version: 1.0.0
+  description: |-
+    Retrieves the attributes of the platform application object for the supported push
+          notification services, such as APNS and GCM.
 schemes:
 - http
 produces:
