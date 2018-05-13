@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS CodeDeploy API
+  title: AWS CodeDeploy API Update Application
   version: 1.0.0
+  description: Changes the name of an application.
 schemes:
 - http
 produces:
