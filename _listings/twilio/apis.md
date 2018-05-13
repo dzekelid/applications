@@ -44,17 +44,19 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-connectapps-format-get.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-connectapps-format-get-postman.md
-- name: Twilio Get Authorized Connected App
-  description: Get the properties of the authorized application.
+- name: Twilio Get Authorized Connected Apps
+  description: Returns a list of Connect App resource representations, each representing
+    anConnect App youve authorized to access your account. The list includesnpaging
+    information.n
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
   humanURL: http://www.twilio.com
   baseURL: https://api.twilio.com//2010-04-01/
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-authorizedconnectapps-connectappsid-format-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-authorizedconnectapps-format-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-authorizedconnectapps-connectappsid-format-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accounts-accountsid-authorizedconnectapps-format-get-postman.md
 x-common:
 - type: x-net-library
   url: https://www.twilio.com/docs/csharp/install
