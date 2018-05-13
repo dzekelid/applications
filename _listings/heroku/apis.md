@@ -24,8 +24,8 @@ tags:
 - Command Line Interface
 - Code
 - API LIfeycle
-created: "2018-03-27"
-modified: "2018-03-27"
+created: "2018-05-12"
+modified: "2018-05-12"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -38,7 +38,7 @@ apis:
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-name-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-app-addons-addon-parameters.md
 x-common:
 - type: x-base
   url: https://api.heroku.com
