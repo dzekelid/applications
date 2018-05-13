@@ -16,7 +16,17 @@ created: "2018-05-12"
 modified: "2018-05-12"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/apis.yaml
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS OpsWorks API
+  description: AWS OpsWorks is a configuration management service that uses Chef,
+    an automation platform that treats server configurations as code
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png
+  humanURL: ""
+  baseURL: :///
+  tags: Applications
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/action-describeapps-get.md
 x-common:
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html
