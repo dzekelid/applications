@@ -35,17 +35,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/action-setplatformapplicationattributes-get.md
-- name: AWS Simple Notification Service API Create Platform Application
+- name: AWS Simple Notification Service API Delete Platform Application
   description: |-
-    Creates a platform application object for one of the supported push notification services,
-          such as APNS and GCM, to which devices and mobile apps may register.
+    Deletes a platform application object for one of the supported push notification services,
+          such as APNS and GCM.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
   humanURL: https://aws.amazon.com/sns/
   baseURL: http:://{host}//
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/action-createplatformapplication-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/action-deleteplatformapplication-get.md
 x-common:
 - type: x-change-log
   url: http://aws.amazon.com/releasenotes/Amazon-SN
