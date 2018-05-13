@@ -28,17 +28,17 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-hdinsight/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-hdinsight-clusters-clustername-applications-applicationname-delete.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-hdinsight/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-hdinsight-clusters-clustername-applications-applicationname-delete-postman.md
-- name: Azure HDInsight API Applications List
-  description: Lists all of the applications HDInsight cluster.
+- name: Azure HDInsight API Applications Get
+  description: Lists properties of the application.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-hdinsights-open-source-analytics.png
   humanURL: https://azure.microsoft.com/en-us/services/hdinsight/
   baseURL: http:://management.azure.com//
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-hdinsight/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-hdinsight-clusters-clustername-applications-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-hdinsight/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-hdinsight-clusters-clustername-applications-applicationname-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-hdinsight/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-hdinsight-clusters-clustername-applications-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-hdinsight/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-hdinsight-clusters-clustername-applications-applicationname-get-postman.md
 x-common:
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/hdinsight/
