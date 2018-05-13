@@ -30,15 +30,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/action-updateapplication-get.md
-- name: AWS CodeDeploy API Get Application
-  description: Gets information about an application.
+- name: AWS CodeDeploy API List Applications
+  description: |-
+    Lists the applications registered with the applicable IAM user or AWS
+                account.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
   humanURL: https://aws.amazon.com/codedeploy/
   baseURL: http:://{host}//
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/action-getapplication-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/action-listapplications-get.md
 x-common:
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/cli/latest/reference/codedeploy
