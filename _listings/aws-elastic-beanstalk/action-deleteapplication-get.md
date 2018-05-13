@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Elastic Beanstalk API
+  title: AWS Elastic Beanstalk API Delete Application
   version: 1.0.0
+  description: |-
+    Deletes the specified application along with all associated versions and
+          configurations.
 schemes:
 - http
 produces:
