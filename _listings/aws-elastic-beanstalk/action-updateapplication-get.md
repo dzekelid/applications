@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Elastic Beanstalk API
+  title: AWS Elastic Beanstalk API Update Application
   version: 1.0.0
+  description: Updates the specified application to have the specified properties.
 schemes:
 - http
 produces:
