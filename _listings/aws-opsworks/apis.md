@@ -1,5 +1,6 @@
 ---
 name: AWS OpsWorks
+x-slug: aws-opsworks
 description: AWS OpsWorks is a configuration management service that uses Chef, an
   automation platform that treats server configurations as code. OpsWorks uses Chef
   to automate how servers are configured, deployed, and managed across your Amazon
@@ -8,41 +9,69 @@ description: AWS OpsWorks is a configuration management service that uses Chef, 
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png
 x-kinRank: "10"
 x-alexaRank: ""
-tags:
-- Stack Network
-- Orchestration
-- Amazon Web Services
-created: "2018-05-12"
-modified: "2018-05-12"
-url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/apis.yaml
+tags: Applications
+created: "2018-05-20"
+modified: "2018-05-20"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/apis.md
 specificationVersion: "0.14"
 apis:
-- name: AWS OpsWorks API
-  description: AWS OpsWorks is a configuration management service that uses Chef,
-    an automation platform that treats server configurations as code
+- name: AWS OpsWorks API Create App
+  x-api-slug: aws-opsworks-api
+  description: Creates an app for a specified stack.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png
-  humanURL: ""
+  humanURL: https://aws.amazon.com/opsworks/
+  baseURL: ://///?Action=CreateApp
+  tags: Applications
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/actioncreateapp-get-openapi.md
+- name: AWS OpsWorks API Delete App
+  x-api-slug: aws-opsworks-api
+  description: Deletes a specified app.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png
+  humanURL: https://aws.amazon.com/opsworks/
+  baseURL: ://///?Action=DeleteApp
+  tags: Applications
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/actiondeleteapp-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/actiondeleteapp-get-openapi.md
+- name: AWS OpsWorks API Describe Apps
+  x-api-slug: aws-opsworks-api
+  description: Requests a description of a specified set of apps.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png
+  humanURL: https://aws.amazon.com/opsworks/
+  baseURL: ://///?Action=DescribeApps
+  tags: Applications
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/actiondescribeapps-get-openapi.md
+- name: AWS OpsWorks API Update App
+  x-api-slug: aws-opsworks-api
+  description: Updates a specified app.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png
+  humanURL: https://aws.amazon.com/opsworks/
+  baseURL: ://///?Action=UpdateApp
+  tags: Applications
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/actionupdateapp-get-openapi.md
+- name: AWS OpsWorks API
+  x-api-slug: aws-opsworks-api
+  description: AWS OpsWorks is a configuration management service that uses Chef,
+    an automation platform that treats server configurations as code. OpsWorks uses
+    Chef to automate how servers are configured, deployed, and managed across your
+    Amazon Elastic Compute Cloud (Amazon EC2) instances or on-premises compute environments.
+    OpsWorks has two offerings, AWS Opsworks for Chef Automate, and AWS OpsWorks Stacks.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png
+  humanURL: https://aws.amazon.com/opsworks/
   baseURL: :///
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/action-updateapp-get.md
-- name: AWS OpsWorks API Update App
-  description: Updates a specified app.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png
-  humanURL: https://aws.amazon.com/opsworks/
-  baseURL: http:://{host}//
-  tags: Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/action-updateapp-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/openapi.md
 x-common:
-- type: x-command-line-interface
-  url: http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html
-- type: x-documentation
-  url: http://docs.aws.amazon.com/opsworks/latest/APIReference/Welcome.html
-- type: x-website
-  url: https://aws.amazon.com/opsworks/
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html
 - type: x-documentation

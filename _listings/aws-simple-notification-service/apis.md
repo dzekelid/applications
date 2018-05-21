@@ -1,68 +1,105 @@
 ---
 name: AWS Simple Notification Service
+x-slug: aws-simple-notification-service
 description: Amazon Simple Notification Service (Amazon SNS) is a fast, flexible,
   fully managed push notification service that lets you send individual messages or
   to fan-out messages to large numbers of recipients. Amazon SNS makes it simple and
   cost effective to send push notifications to mobile device users, email recipients
-  or even send messages to other distributed services.nWith Amazon SNS, you can send
+  or even send messages to other distributed services.With Amazon SNS, you can send
   notifications to Apple, Google, Fire OS, and Windows devices, as well as to Android
   devices in China with Baidu Cloud Push. You can use SNS to send SMS messages to
-  mobile device users worldwide.nBeyond these endpoints, Amazon SNS can also deliver
-  messages tonbsp;Amazon Simple Queue Servicenbsp;(SQS),nbsp;AWS Lambda functions,
-  or to any HTTP endpoint.
+  mobile device users worldwide.Beyond these endpoints, Amazon SNS can also deliver
+  messages toAmazon Simple Queue Service(SQS),AWS Lambda functions, or to any HTTP
+  endpoint.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
 x-kinRank: "10"
 x-alexaRank: ""
-tags:
-- Stack Network
-- SMS
-- Notifications
-- Messaging
-- Amazon Web Services
-created: "2018-05-12"
-modified: "2018-05-12"
-url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/apis.yaml
+tags: Applications
+created: "2018-05-20"
+modified: "2018-05-20"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/apis.md
 specificationVersion: "0.14"
 apis:
-- name: AWS Simple Notification Service API
-  description: Amazon Simple Notification Service (Amazon SNS) is a fast, flexible,
-    fully managed push notification service that lets you send individual messages
-    or to fan-out messages to large numbers of recipients
+- name: AWS Simple Notification Service API Create Platform Application
+  x-api-slug: aws-simple-notification-service-api
+  description: |-
+    Creates a platform application object for one of the supported push notification services,
+          such as APNS and GCM, to which devices and mobile apps may register.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
-  humanURL: ""
-  baseURL: :///
-  tags: Applications
+  humanURL: https://aws.amazon.com/sns/
+  baseURL: ://///?Action=CreatePlatformApplication
+  tags: Platform Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/action-setplatformapplicationattributes-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/actioncreateplatformapplication-get-openapi.md
+- name: AWS Simple Notification Service API Delete Platform Application
+  x-api-slug: aws-simple-notification-service-api
+  description: |-
+    Deletes a platform application object for one of the supported push notification services,
+          such as APNS and GCM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
+  humanURL: https://aws.amazon.com/sns/
+  baseURL: ://///?Action=DeletePlatformApplication
+  tags: Platform Applications
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/actiondeleteplatformapplication-get-openapi.md
+- name: AWS Simple Notification Service API Get Platform Application Attributes
+  x-api-slug: aws-simple-notification-service-api
+  description: |-
+    Retrieves the attributes of the platform application object for the supported push
+          notification services, such as APNS and GCM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
+  humanURL: https://aws.amazon.com/sns/
+  baseURL: ://///?Action=GetPlatformApplicationAttributes
+  tags: Platform Applications
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/actiongetplatformapplicationattributes-get-openapi.md
+- name: AWS Simple Notification Service API List Platform Applications
+  x-api-slug: aws-simple-notification-service-api
+  description: |-
+    Lists the platform application objects for the supported push notification services, such as
+          APNS and GCM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
+  humanURL: https://aws.amazon.com/sns/
+  baseURL: ://///?Action=ListPlatformApplications
+  tags: Platform Applications
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/actionlistplatformapplications-get-openapi.md
 - name: AWS Simple Notification Service API Set Platform Application Attributes
+  x-api-slug: aws-simple-notification-service-api
   description: |-
     Sets the attributes of the platform application object for the supported push notification
           services, such as APNS and GCM.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
   humanURL: https://aws.amazon.com/sns/
-  baseURL: http:://{host}//
+  baseURL: ://///?Action=SetPlatformApplicationAttributes
+  tags: Platform Applications
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/actionsetplatformapplicationattributes-get-openapi.md
+- name: AWS Simple Notification Service API
+  x-api-slug: aws-simple-notification-service-api
+  description: Amazon Simple Notification Service (Amazon SNS) is a fast, flexible,
+    fully managed push notification service that lets you send individual messages
+    or to fan-out messages to large numbers of recipients. Amazon SNS makes it simple
+    and cost effective to send push notifications to mobile device users, email recipients
+    or even send messages to other distributed services.With Amazon SNS, you can send
+    notifications to Apple, Google, Fire OS, and Windows devices, as well as to Android
+    devices in China with Baidu Cloud Push. You can use SNS to send SMS messages to
+    mobile device users worldwide.Beyond these endpoints, Amazon SNS can also deliver
+    messages toAmazon Simple Queue Service(SQS),AWS Lambda functions, or to any HTTP
+    endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
+  humanURL: https://aws.amazon.com/sns/
+  baseURL: :///
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/action-setplatformapplicationattributes-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/openapi.md
 x-common:
-- type: x-change-log
-  url: http://aws.amazon.com/releasenotes/Amazon-SN
-- type: x-console
-  url: https://console.aws.amazon.com/sns
-- type: x-documentation
-  url: http://docs.aws.amazon.com/sns/latest/api/
-- type: x-faq
-  url: https://aws.amazon.com/sns/faqs/
-- type: x-forum
-  url: https://forums.aws.amazon.com/forum.jspa?forumID=72
-- type: x-getting-started
-  url: https://aws.amazon.com/sns/getting-started/
-- type: x-pricing
-  url: https://aws.amazon.com/sns/pricing/
-- type: x-website
-  url: https://aws.amazon.com/sns/
 - type: x-change-log
   url: http://aws.amazon.com/releasenotes/Amazon-SN
 - type: x-console
