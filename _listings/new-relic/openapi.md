@@ -21,7 +21,7 @@ paths:
 
         See our documentation for a discussion on output pagination.
       operationId: getApplicationsApplicationDeployments.Format
-      x-api-path-slug: applicationsapplication-iddeploymentsformat-get
+      x-api-path-slug: applicationsapplication-iddeployments-format-get
       parameters:
       - in: path
         name: application_id
@@ -48,7 +48,7 @@ paths:
         Description \n\_\_- User posting the deployment\n\nNote that the time of your
         deployment will be recorded as the current time in UTC."
       operationId: postApplicationsApplicationDeployments.Format
-      x-api-path-slug: applicationsapplication-iddeploymentsformat-post
+      x-api-path-slug: applicationsapplication-iddeployments-format-post
       parameters:
       - in: path
         name: application_id
@@ -74,7 +74,7 @@ paths:
       description: "This API endpoint deletes the specified deployment record.\n\nNote:
         Admin User\u2019s API Key is required."
       operationId: deleteApplicationsApplicationDeployments.Format
-      x-api-path-slug: applicationsapplication-iddeploymentsidformat-delete
+      x-api-path-slug: applicationsapplication-iddeploymentsid-format-delete
       parameters:
       - in: path
         name: application_id
@@ -104,7 +104,7 @@ paths:
         application host IDs.\n\nSee our documentation for a discussion and examples
         of\nusing  filters \nand summary data output."
       operationId: getApplicationsApplicationHosts.Format
-      x-api-path-slug: applicationsapplication-idhostsformat-get
+      x-api-path-slug: applicationsapplication-idhosts-format-get
       parameters:
       - in: path
         name: application_id
@@ -140,7 +140,7 @@ paths:
         See our documentation for a discussion of
         summary data output.
       operationId: getApplicationsApplicationHosts.Format
-      x-api-path-slug: applicationsapplication-idhostsidformat-get
+      x-api-path-slug: applicationsapplication-idhostsid-format-get
       parameters:
       - in: path
         name: application_id
@@ -171,7 +171,7 @@ paths:
         on  output pagination
         and for examples of requesting and using metric values.
       operationId: getApplicationsApplicationHostsHostMetrics.Format
-      x-api-path-slug: applicationsapplication-idhostshost-idmetricsformat-get
+      x-api-path-slug: applicationsapplication-idhostshost-idmetrics-format-get
       parameters:
       - in: path
         name: application_id
@@ -217,7 +217,7 @@ paths:
         our documentation for a discussion on \noutput pagination,  time range \nrelated
         considerations, and for examples of requesting and using metric values."
       operationId: getApplicationsApplicationHostsHostMetricsData.Format
-      x-api-path-slug: applicationsapplication-idhostshost-idmetricsdataformat-get
+      x-api-path-slug: applicationsapplication-idhostshost-idmetricsdata-format-get
       parameters:
       - in: path
         name: application_id
@@ -277,7 +277,7 @@ paths:
         of application instance IDs.\n\nSee our documentation for a discussion and
         examples of\nusing  filters \nand summary data output."
       operationId: getApplicationsApplicationInstances.Format
-      x-api-path-slug: applicationsapplication-idinstancesformat-get
+      x-api-path-slug: applicationsapplication-idinstances-format-get
       parameters:
       - in: path
         name: application_id
@@ -313,7 +313,7 @@ paths:
         See our documentation for a discussion of
          summary data output.
       operationId: getApplicationsApplicationInstances.Format
-      x-api-path-slug: applicationsapplication-idinstancesidformat-get
+      x-api-path-slug: applicationsapplication-idinstancesid-format-get
       parameters:
       - in: path
         name: application_id
@@ -344,7 +344,7 @@ paths:
         on  output pagination
         and for examples of requesting and using metric values.
       operationId: getApplicationsApplicationInstancesInstanceMetrics.Format
-      x-api-path-slug: applicationsapplication-idinstancesinstance-idmetricsformat-get
+      x-api-path-slug: applicationsapplication-idinstancesinstance-idmetrics-format-get
       parameters:
       - in: path
         name: application_id
@@ -390,7 +390,7 @@ paths:
         our documentation for a discussion on \noutput pagination,  time range \nrelated
         considerations, and for examples of requesting and using metric values."
       operationId: getApplicationsApplicationInstancesInstanceMetricsData.Format
-      x-api-path-slug: applicationsapplication-idinstancesinstance-idmetricsdataformat-get
+      x-api-path-slug: applicationsapplication-idinstancesinstance-idmetricsdata-format-get
       parameters:
       - in: path
         name: application_id
@@ -451,7 +451,7 @@ paths:
         agents.\n\nSee our documentation for a discussion and examples of\nusing  filters
         \nand summary data output."
       operationId: getApplications.Format
-      x-api-path-slug: applicationsformat-get
+      x-api-path-slug: applications-format-get
       parameters:
       - in: query
         name: filter[host]
@@ -488,7 +488,7 @@ paths:
         See our documentation for a discussion of the
          summary data output.
       operationId: getApplications.Format
-      x-api-path-slug: applicationsidformat-get
+      x-api-path-slug: applicationsid-format-get
       parameters:
       - in: path
         name: id
@@ -514,7 +514,7 @@ paths:
          updating
         an application.
       operationId: putApplications.Format
-      x-api-path-slug: applicationsidformat-put
+      x-api-path-slug: applicationsid-format-put
       parameters:
       - in: body
         name: application
@@ -541,7 +541,7 @@ paths:
         WARNING: Only applications that have stopped reporting can be deleted. This is an irreversible process
         which will delete all reported data for this application.
       operationId: deleteApplications.Format
-      x-api-path-slug: applicationsidformat-delete
+      x-api-path-slug: applicationsid-format-delete
       parameters:
       - in: path
         name: id
@@ -565,7 +565,7 @@ paths:
         on  output pagination
         and for examples of requesting and using metric values.
       operationId: getApplicationsApplicationMetrics.Format
-      x-api-path-slug: applicationsapplication-idmetricsformat-get
+      x-api-path-slug: applicationsapplication-idmetrics-format-get
       parameters:
       - in: path
         name: application_id
@@ -604,7 +604,7 @@ paths:
         our documentation for a discussion on \noutput pagination,  time range \nrelated
         considerations, and for examples of requesting and using metric values."
       operationId: getApplicationsApplicationMetricsData.Format
-      x-api-path-slug: applicationsapplication-idmetricsdataformat-get
+      x-api-path-slug: applicationsapplication-idmetricsdata-format-get
       parameters:
       - in: path
         name: application_id
@@ -656,7 +656,7 @@ paths:
 
         Browser Applications can be filtered by their name, or by the application IDs.
       operationId: getBrowserApplications.Format
-      x-api-path-slug: browser-applicationsformat-get
+      x-api-path-slug: browser-applications-format-get
       parameters:
       - in: query
         name: filter[ids]
@@ -681,7 +681,7 @@ paths:
       summary: Add Browser Applications. Format
       description: This API endpoint allows you to create a standalone Browser Application.
       operationId: postBrowserApplications.Format
-      x-api-path-slug: browser-applicationsformat-post
+      x-api-path-slug: browser-applications-format-post
       parameters:
       - in: body
         name: browser_application
@@ -703,7 +703,7 @@ paths:
 
         MobileApplications can be filtered by their name, or by the application IDs.
       operationId: getMobileApplications.Format
-      x-api-path-slug: mobile-applicationsformat-get
+      x-api-path-slug: mobile-applications-format-get
       responses:
         200:
           description: OK
@@ -717,7 +717,7 @@ paths:
       description: This API endpoint returns a single Mobile Application, identified
         by ID. The time range for summary data is the last 30 minutes.
       operationId: getMobileApplications.Format
-      x-api-path-slug: mobile-applicationsidformat-get
+      x-api-path-slug: mobile-applicationsid-format-get
       parameters:
       - in: path
         name: id
@@ -742,7 +742,7 @@ paths:
         on  output pagination
         and for examples of requesting and using metric values.
       operationId: getMobileApplicationsMobileApplicationMetrics.Format
-      x-api-path-slug: mobile-applicationsmobile-application-idmetricsformat-get
+      x-api-path-slug: mobile-applicationsmobile-application-idmetrics-format-get
       parameters:
       - in: query
         name: cursor
@@ -783,7 +783,7 @@ paths:
         our documentation for a discussion on \noutput pagination,  time range \nrelated
         considerations, and for examples of requesting and using metric values."
       operationId: getMobileApplicationsMobileApplicationMetricsData.Format
-      x-api-path-slug: mobile-applicationsmobile-application-idmetricsdataformat-get
+      x-api-path-slug: mobile-applicationsmobile-application-idmetricsdata-format-get
       parameters:
       - in: query
         name: from

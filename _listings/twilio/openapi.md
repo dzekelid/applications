@@ -4,7 +4,7 @@ x-collection-name: Twilio
 x-complete: 1
 info:
   title: Twilio
-  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california-twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis-twilios-services-are-accessed-over-http-and-are-billed-based-on-usage
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
   termsOfService: https://www.twilio.com/legal/tos
   version: v1
 host: api.twilio.com
@@ -21,7 +21,7 @@ paths:
       summary: Delete Application
       description: Delete Application
       operationId: delete-this-application
-      x-api-path-slug: accountsaccountsidapplicationsapplicationsidformat-delete
+      x-api-path-slug: accountsaccountsidapplicationsapplicationsid-format-delete
       parameters:
       - in: path
         name: AccountSid
@@ -43,7 +43,7 @@ paths:
       summary: Get Application
       description: Get application instance resource.
       operationId: get-application-instance-resource
-      x-api-path-slug: accountsaccountsidapplicationsapplicationsidformat-get
+      x-api-path-slug: accountsaccountsidapplicationsapplicationsid-format-get
       parameters:
       - in: path
         name: AccountSid
@@ -67,7 +67,7 @@ paths:
         representation if successful. The returned response is identicalnto that returned
         above when making a GET request.n
       operationId: tries-to-update-the-applications-properties-and-returns-the-updatedresource-representation-if-succes
-      x-api-path-slug: accountsaccountsidapplicationsapplicationsidformat-post
+      x-api-path-slug: accountsaccountsidapplicationsapplicationsid-format-post
       parameters:
       - in: path
         name: AccountSid
@@ -90,7 +90,7 @@ paths:
       summary: Get Applications
       description: Get Applications
       operationId: returns-a-list-of-application-resource-representations-each-representingan-application-within-your-a
-      x-api-path-slug: accountsaccountsidapplicationsformat-get
+      x-api-path-slug: accountsaccountsidapplications-format-get
       parameters:
       - in: path
         name: AccountSid
@@ -109,7 +109,7 @@ paths:
       summary: Add Applications
       description: Add Applications
       operationId: creates-a-new-application-within-your-account
-      x-api-path-slug: accountsaccountsidapplicationsformat-post
+      x-api-path-slug: accountsaccountsidapplications-format-post
       parameters:
       - in: path
         name: AccountSid
@@ -129,7 +129,7 @@ paths:
       summary: Get Authorized Connected App
       description: Get the properties of the authorized application.
       operationId: get-the-properties-of-the-authorized-application
-      x-api-path-slug: accountsaccountsidauthorizedconnectappsconnectappsidformat-get
+      x-api-path-slug: accountsaccountsidauthorizedconnectappsconnectappsid-format-get
       parameters:
       - in: path
         name: AccountSid
@@ -155,7 +155,7 @@ paths:
         anConnect App youve authorized to access your account. The list includesnpaging
         information.n
       operationId: returns-a-list-of-connect-app-resource-representations-each-representing-aconnect-app-youve-authoriz
-      x-api-path-slug: accountsaccountsidauthorizedconnectappsformat-get
+      x-api-path-slug: accountsaccountsidauthorizedconnectapps-format-get
       parameters:
       - in: path
         name: AccountSid
@@ -175,7 +175,7 @@ paths:
       summary: Get Connected App
       description: Get the properties of a Connect App.
       operationId: get-the-properties-of-a-connect-app
-      x-api-path-slug: accountsaccountsidconnectappsconnectappsidformat-get
+      x-api-path-slug: accountsaccountsidconnectappsconnectappsid-format-get
       parameters:
       - in: path
         name: AccountSid
@@ -200,7 +200,7 @@ paths:
         representation if successful. The returned response is identicalnto that returned
         above when making a GET request.n
       operationId: tries-to-update-the-connect-apps-properties-and-returns-the-updatedresource-representation-if-succes
-      x-api-path-slug: accountsaccountsidconnectappsconnectappsidformat-post
+      x-api-path-slug: accountsaccountsidconnectappsconnectappsid-format-post
       parameters:
       - in: path
         name: AccountSid
@@ -225,7 +225,7 @@ paths:
       description: Returns a list of Connect App resource representations, each representingna
         Connect App in your account. The list includes paging information.n
       operationId: returns-a-list-of-connect-app-resource-representations-each-representinga-connect-app-in-your-accoun
-      x-api-path-slug: accountsaccountsidconnectappsformat-get
+      x-api-path-slug: accountsaccountsidconnectapps-format-get
       parameters:
       - in: path
         name: AccountSid

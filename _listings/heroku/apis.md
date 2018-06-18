@@ -1,24 +1,22 @@
 ---
 name: Heroku
 x-slug: heroku
-description: Heroku is the first and best multi-language cloud application platform,
-  or platform-as-a-service. Heroku allows developers to deploy, scale, and manage
-  their apps without needing to think about servers or systems administration. Over
-  one million applications have been deployed to Heroku.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/211_logo.png
+description: Heroku is a platform as a service (PaaS) that enables developers to build,
+  run, and operate applications entirely in the cloud.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "6044"
 tags: Applications
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-17"
+modified: "2018-06-17"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apis.md
 specificationVersion: "0.14"
 apis:
 - name: Heroku Parameters Applications Addons
   x-api-slug: heroku
   description: Parameters applications addons.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/211_logo.png
-  humanURL: https://www.heroku.com/
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
+  humanURL: http://heroku.com
   baseURL: https://api.heroku.com////apps/{app}/addons/{addon}
   tags: Parameters, Applications, ons
   properties:
@@ -27,8 +25,8 @@ apis:
 - name: Heroku Delete Applications Addons
   x-api-slug: heroku
   description: Uninstall an addon from an app.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/211_logo.png
-  humanURL: https://www.heroku.com/
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
+  humanURL: http://heroku.com
   baseURL: https://api.heroku.com////apps/{app}/addons/{addon}
   tags: Applications, ons
   properties:
@@ -37,8 +35,8 @@ apis:
 - name: Heroku Parameters Applications
   x-api-slug: heroku
   description: Parameters applications.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/211_logo.png
-  humanURL: https://www.heroku.com/
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
+  humanURL: http://heroku.com
   baseURL: https://api.heroku.com////apps
   tags: Parameters, Applications
   properties:
@@ -47,8 +45,8 @@ apis:
 - name: Heroku Get Applications
   x-api-slug: heroku
   description: Get applications.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/211_logo.png
-  humanURL: https://www.heroku.com/
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
+  humanURL: http://heroku.com
   baseURL: https://api.heroku.com////apps
   tags: Applications
   properties:
@@ -57,8 +55,8 @@ apis:
 - name: Heroku Add Applications
   x-api-slug: heroku
   description: Add applications.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/211_logo.png
-  humanURL: https://www.heroku.com/
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
+  humanURL: http://heroku.com
   baseURL: https://api.heroku.com////apps
   tags: Applications
   properties:
@@ -67,8 +65,8 @@ apis:
 - name: Heroku Parameters Applications Name
   x-api-slug: heroku
   description: Parameters applications name.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/211_logo.png
-  humanURL: https://www.heroku.com/
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
+  humanURL: http://heroku.com
   baseURL: https://api.heroku.com////apps/{name}
   tags: Parameters, Applications, Name
   properties:
@@ -77,8 +75,8 @@ apis:
 - name: Heroku Get Applications Name
   x-api-slug: heroku
   description: Get applications name.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/211_logo.png
-  humanURL: https://www.heroku.com/
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
+  humanURL: http://heroku.com
   baseURL: https://api.heroku.com////apps/{name}
   tags: Applications, Name
   properties:
@@ -87,8 +85,8 @@ apis:
 - name: Heroku Delete Applications Name
   x-api-slug: heroku
   description: Delete applications name.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/211_logo.png
-  humanURL: https://www.heroku.com/
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
+  humanURL: http://heroku.com
   baseURL: https://api.heroku.com////apps/{name}
   tags: Applications, Name
   properties:
@@ -97,8 +95,8 @@ apis:
 - name: Heroku
   x-api-slug: heroku
   description: Learn about building, deploying and managing your apps on Heroku.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/211_logo.png
-  humanURL: https://www.heroku.com/
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
+  humanURL: http://heroku.com
   baseURL: https://api.heroku.com//
   tags: Applications
   properties:
@@ -114,9 +112,17 @@ x-common:
 - type: x-command-line-interface
   url: https://devcenter.heroku.com/articles/heroku-command
 - type: x-crunchbase
+  url: https://crunchbase.com/organization/heroku
+- type: x-crunchbase
   url: http://www.crunchbase.com/company/heroku
 - type: x-developer
   url: https://devcenter.heroku.com/
+- type: x-email
+  url: pr@heroku.com
+- type: x-email
+  url: abuse@heroku.com
+- type: x-email
+  url: feedback@heroku.com
 - type: x-getting-started
   url: https://devcenter.heroku.com/start
 - type: x-github
@@ -125,7 +131,7 @@ x-common:
   url: https://status.heroku.com/incidents
 - type: x-java-library
   url: https://devcenter.heroku.com/categories/java
-- type: x-nodejs
+- type: x-node-js
   url: https://devcenter.heroku.com/categories/nodejs
 - type: x-php-library
   url: https://devcenter.heroku.com/categories/php
@@ -146,7 +152,11 @@ x-common:
 - type: x-terms-of-service
   url: https://www.heroku.com/policy/tos
 - type: x-twitter
+  url: https://twitter.com/heroku
+- type: x-twitter
   url: https://twitter.com/HerokuDevCenter
+- type: x-website
+  url: http://heroku.com
 - type: x-website
   url: https://www.heroku.com/
 include: []

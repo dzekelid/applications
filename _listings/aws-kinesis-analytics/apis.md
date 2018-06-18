@@ -12,10 +12,10 @@ description: Amazon Kinesis Analytics is the easiest way to process streaming da
   fee or setup cost.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Applications
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-17"
+modified: "2018-06-17"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/apis.md
 specificationVersion: "0.14"
 apis:

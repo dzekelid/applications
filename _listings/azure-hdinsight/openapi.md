@@ -4,7 +4,7 @@ x-collection-name: Azure HDInsight
 x-complete: 1
 info:
   title: HDInsightManagementClient
-  description: the-hdinsight-management-client
+  description: the-hdinsight-management-client-
   version: 1.0.0
 host: management.azure.com
 basePath: /
@@ -20,7 +20,7 @@ paths:
       summary: Applications List
       description: Lists all of the applications HDInsight cluster.
       operationId: Applications_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameapplications-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameapplications-get
       parameters:
       - in: path
         name: clusterName
@@ -40,7 +40,7 @@ paths:
       summary: Applications Get
       description: Lists properties of the application.
       operationId: Applications_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameapplicationsapplicationname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameapplicationsapplicationname-get
       parameters:
       - in: path
         name: applicationName
@@ -62,7 +62,7 @@ paths:
       summary: Applications Create
       description: The operation creates applications for the HDInsight cluster.
       operationId: Applications_Create
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameapplicationsapplicationname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameapplicationsapplicationname-put
       parameters:
       - in: path
         name: applicationName
@@ -89,7 +89,7 @@ paths:
       summary: Applications Delete
       description: Lists all of the applications HDInsight cluster.
       operationId: Applications_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameapplicationsapplicationname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameapplicationsapplicationname-delete
       parameters:
       - in: path
         name: applicationName
