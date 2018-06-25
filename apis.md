@@ -5,7 +5,7 @@ description: This is a repository of applications APIs, self-contained as a Gith
   operations.
 image: http://template.streamdata.gallery/assets/applications.png
 created: "2018-02-24"
-modified: "2018-06-17"
+modified: "2018-06-25"
 url: http://applications.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
@@ -33,8 +33,8 @@ include:
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/apis.yaml
 - name: Bureau of Alcohol, Tobacco, Firearms, and Explosives
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/bureau-of-alcohol-tobacco-firearms-and-explosives/apis.yaml
-- name: Apigee Edge
-  url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/apigee-edge/apis.yaml
+- name: Apigee
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/apigee/apis.yaml
 maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
