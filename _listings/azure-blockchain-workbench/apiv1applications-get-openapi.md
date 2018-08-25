@@ -17,6 +17,24 @@ produces:
 consumes:
 - application/json
 paths:
+  /api/v1/checkers/checkApplication:
+    post:
+      summary: Post Checkers Check Application
+      description: Checks if the supplied application configuration file is valid
+        for Workbench.
+      operationId: CheckApplicationPost
+      x-api-path-slug: apiv1checkerscheckapplication-post
+      parameters:
+      - in: formData
+        name: appFile
+        description: Upload Application File
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checkers
+      - Check
+      - Application
   /api/v1/applications:
     get:
       summary: Get Applications

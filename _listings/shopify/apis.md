@@ -13,31 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/shopify/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Shopify API - List your app's fulfillment services
-  x-api-slug: adminfulfillment-services-json-get
-  description: List your app's fulfillment services.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
-  humanURL: https://www.shopify.com/
-  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
-  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/shopify/adminfulfillment-services-json-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/shopify/adminfulfillment-services-json-get-openapi.md
-- name: Shopify API - List your app's fulfillment services
-  x-api-slug: adminfulfillment-services-json-get
-  description: List your app's fulfillment services.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
-  humanURL: https://www.shopify.com/
-  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
-  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/shopify/adminfulfillment-services-json-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/shopify/adminfulfillment-services-json-get-openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://ship.station.api.gallery.streamdata.io

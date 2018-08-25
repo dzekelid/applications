@@ -12,6 +12,36 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Twilio - Get Applications
+  x-api-slug: accountsaccountsidapplications-format-get
+  description: Get Applications
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
+- name: Twilio - Add Applications
+  x-api-slug: accountsaccountsidapplications-format-post
+  description: Add Applications
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
 - name: Twilio - Delete Application
   x-api-slug: accountsaccountsidapplicationsapplicationsid-format-delete
   description: Delete Application
@@ -59,226 +89,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
-- name: Twilio - Get Applications
-  x-api-slug: accountsaccountsidapplications-format-get
-  description: Get Applications
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
-  humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
-    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
-    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
-    Service API, Relative StreamRank, Streams
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
-- name: Twilio - Add Applications
-  x-api-slug: accountsaccountsidapplications-format-post
-  description: Add Applications
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
-  humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
-    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
-    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
-    Service API, Relative StreamRank, Streams
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
-- name: Twilio - Get Authorized Connected App
-  x-api-slug: accountsaccountsidauthorizedconnectappsconnectappsid-format-get
-  description: Get the properties of the authorized application.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
-  humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
-    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
-    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
-    Service API, Relative StreamRank, Streams
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
-- name: Twilio - Get Authorized Connected Apps
-  x-api-slug: accountsaccountsidauthorizedconnectapps-format-get
-  description: Returns a list of Connect App resource representations, each representing
-    anConnect App youve authorized to access your account. The list includesnpaging
-    information.n
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
-  humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
-    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
-    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
-    Service API, Relative StreamRank, Streams
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
-- name: Twilio - Get Connected App
-  x-api-slug: accountsaccountsidconnectappsconnectappsid-format-get
-  description: Get the properties of a Connect App.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
-  humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
-    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
-    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
-    Service API, Relative StreamRank, Streams
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
-- name: Twilio - Add Connected App
-  x-api-slug: accountsaccountsidconnectappsconnectappsid-format-post
-  description: Tries to update the Connect Apps properties, and returns the updatednresource
-    representation if successful. The returned response is identicalnto that returned
-    above when making a GET request.n
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
-  humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
-    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
-    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
-    Service API, Relative StreamRank, Streams
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-openapi.md
-- name: Twilio - Get Connected Apps
-  x-api-slug: accountsaccountsidconnectapps-format-get
-  description: Returns a list of Connect App resource representations, each representingna
-    Connect App in your account. The list includes paging information.n
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
-  humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
-    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
-    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
-    Service API, Relative StreamRank, Streams
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-openapi.md
-- name: Twilio - Get Authorized Connected Apps
-  x-api-slug: accountsaccountsidauthorizedconnectapps-format-get
-  description: Returns a list of Connect App resource representations, each representing
-    anConnect App youve authorized to access your account. The list includesnpaging
-    information.n
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
-  humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
-    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
-    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
-    Service API, Relative StreamRank, Streams
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
-- name: Twilio - Get Authorized Connected App
-  x-api-slug: accountsaccountsidauthorizedconnectappsconnectappsid-format-get
-  description: Get the properties of the authorized application.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
-  humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
-    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
-    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
-    Service API, Relative StreamRank, Streams
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
-- name: Twilio - Get Connected Apps
-  x-api-slug: accountsaccountsidconnectapps-format-get
-  description: Returns a list of Connect App resource representations, each representingna
-    Connect App in your account. The list includes paging information.n
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
-  humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
-    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
-    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
-    Service API, Relative StreamRank, Streams
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-openapi.md
-- name: Twilio - Get Connected App
-  x-api-slug: accountsaccountsidconnectappsconnectappsid-format-get
-  description: Get the properties of a Connect App.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
-  humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
-    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
-    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
-    Service API, Relative StreamRank, Streams
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
-- name: Twilio - Add Connected App
-  x-api-slug: accountsaccountsidconnectappsconnectappsid-format-post
-  description: Tries to update the Connect Apps properties, and returns the updatednresource
-    representation if successful. The returned response is identicalnto that returned
-    above when making a GET request.n
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
-  humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
-    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
-    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
-    Service API, Relative StreamRank, Streams
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-openapi.md
-- name: Twilio - Get Applications
-  x-api-slug: accountsaccountsidapplications-format-get
-  description: Get Applications
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
-  humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
-    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
-    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
-    Service API, Relative StreamRank, Streams
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
-- name: Twilio - Add Applications
-  x-api-slug: accountsaccountsidapplications-format-post
-  description: Add Applications
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
-  humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
-    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
-    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
-    Service API, Relative StreamRank, Streams
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
 x-common:
 - type: x--net-library
   url: https://www.twilio.com/docs/csharp/install

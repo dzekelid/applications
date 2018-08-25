@@ -12,114 +12,19 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Dezrez.Rezi.Client.Api - Creates a tenancy referencing application for a case
-    using the details supplied
-  x-api-slug: apitenantreferncingaddapplicationcaseidtenancyroleidpersonidproductid-post
-  description: Creates a tenancy referencing application for a case using the details
-    supplied.
+- name: Dezrez.Rezi.Client.Api - Get the details of an individual application referencing
+    result
+  x-api-slug: apitenantreferncingapplicationapplicationidreferencingresult-get
+  description: Get the details of an individual application referencing result.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
   humanURL: https://www.dezrez.com
   baseURL: https://api.dezrez.com//
   tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingaddapplicationcaseidtenancyroleidpersonidproductid-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingapplicationapplicationidreferencingresult-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingaddapplicationcaseidtenancyroleidpersonidproductid-post-openapi.md
-- name: Dezrez.Rezi.Client.Api - Adds a Guarantor to a tenancy referencing application
-    for a case using the details supplied
-  x-api-slug: apitenantreferncingaddguarantorcaseidtenancyroleidpersonid-post
-  description: Adds a guarantor to a tenancy referencing application for a case using
-    the details supplied.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingaddguarantorcaseidtenancyroleidpersonid-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingaddguarantorcaseidtenancyroleidpersonid-post-openapi.md
-- name: Dezrez.Rezi.Client.Api - Submits an individual referencing application for
-    processing
-  x-api-slug: apitenantreferncingsubmitapplicationcaseid-put
-  description: Submits an individual referencing application for processing.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingsubmitapplicationcaseid-put-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingsubmitapplicationcaseid-put-openapi.md
-- name: Dezrez.Rezi.Client.Api - Gets all tenancy referencing applications for the
-    caseId provided
-  x-api-slug: apitenantreferncingapplicationscaseid-get
-  description: Gets all tenancy referencing applications for the caseid provided.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingapplicationscaseid-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingapplicationscaseid-get-openapi.md
-- name: Dezrez.Rezi.Client.Api - Creates a tenancy referencing application for a case
-    using the details supplied
-  x-api-slug: apitenantreferncingaddapplicationcaseidtenancyroleidpersonidproductid-post
-  description: Creates a tenancy referencing application for a case using the details
-    supplied.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingaddapplicationcaseidtenancyroleidpersonidproductid-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingaddapplicationcaseidtenancyroleidpersonidproductid-post-openapi.md
-- name: Dezrez.Rezi.Client.Api - Adds a Guarantor to a tenancy referencing application
-    for a case using the details supplied
-  x-api-slug: apitenantreferncingaddguarantorcaseidtenancyroleidpersonid-post
-  description: Adds a guarantor to a tenancy referencing application for a case using
-    the details supplied.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingaddguarantorcaseidtenancyroleidpersonid-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingaddguarantorcaseidtenancyroleidpersonid-post-openapi.md
-- name: Dezrez.Rezi.Client.Api - Submits an individual referencing application for
-    processing
-  x-api-slug: apitenantreferncingsubmitapplicationcaseid-put
-  description: Submits an individual referencing application for processing.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingsubmitapplicationcaseid-put-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingsubmitapplicationcaseid-put-openapi.md
-- name: Dezrez.Rezi.Client.Api - Gets all tenancy referencing applications for the
-    caseId provided
-  x-api-slug: apitenantreferncingapplicationscaseid-get
-  description: Gets all tenancy referencing applications for the caseid provided.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingapplicationscaseid-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingapplicationscaseid-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingapplicationapplicationidreferencingresult-get-openapi.md
 x-common:
 - type: x-github
   url: https://github.com/dezrez

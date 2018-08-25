@@ -17,6 +17,24 @@ produces:
 consumes:
 - application/json
 paths:
+  /api/v1/checkers/checkApplication:
+    post:
+      summary: Post Checkers Check Application
+      description: Checks if the supplied application configuration file is valid
+        for Workbench.
+      operationId: CheckApplicationPost
+      x-api-path-slug: apiv1checkerscheckapplication-post
+      parameters:
+      - in: formData
+        name: appFile
+        description: Upload Application File
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checkers
+      - Check
+      - Application
   /api/v1/applications:
     get:
       summary: Get Applications
@@ -61,6 +79,65 @@ paths:
           description: OK
       tags:
       - Applications
+  /api/v1/applications/contractCode/{contractCodeId}:
+    get:
+      summary: Get Applications Contract Code
+      description: |-
+        Get the blockchain smart contract implementation matching a specific
+                     contract code id. Users who are Workbench administrators get the specified smart contract implementation.
+                     Non-Workbench administrators get the smart contract implementation if they have at least one associated application
+                     role or is associated with a smart contract instance role.
+      operationId: ContractCodeGet
+      x-api-path-slug: apiv1applicationscontractcodecontractcodeid-get
+      parameters:
+      - in: path
+        name: contractCodeId
+        description: The id of the contract code
+      responses:
+        200:
+          description: OK
+      tags:
+      - Applications
+      - Contract
+      - Code
+    delete:
+      summary: Delete Applications Contract Code
+      description: |-
+        Deletes the specified blockchain smart contract implementation of a specific blockchain application.
+                     This method can only be performed by users who are Workbench administrators.
+                     NOTE: not currently implemented
+      operationId: ContractCodeDelete
+      x-api-path-slug: apiv1applicationscontractcodecontractcodeid-delete
+      parameters:
+      - in: path
+        name: contractCodeId
+        description: The id of the contract code
+      responses:
+        200:
+          description: OK
+      tags:
+      - Applications
+      - Contract
+      - Code
+  /api/v1/applications/workflows/{workflowId}:
+    get:
+      summary: Get Applications Workflows
+      description: |-
+        Get a workflow matching a specific workflow ID.
+                     Users who are Workbench administrators get the workflow. Non-Workbench administrators get the workflow if they
+                     have at least one associated application role or is associated with a smart contract instance role.
+      operationId: WorkflowGet
+      x-api-path-slug: apiv1applicationsworkflowsworkflowid-get
+      parameters:
+      - in: path
+        name: workflowId
+        description: The id of the workflow
+      responses:
+        200:
+          description: OK
+      tags:
+      - Applications
+      - Workflows
   /api/v1/applications/{applicationId}:
     get:
       summary: Get Applications

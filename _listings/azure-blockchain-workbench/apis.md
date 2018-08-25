@@ -74,20 +74,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applicationsapplicationid-delete-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applicationsapplicationid-delete-openapi.md
-- name: Azure Blockchain Workbench REST API - Patch Applications Enable
-  x-api-slug: apiv1applicationsapplicationidenable-patch
-  description: |-
-    Enables the specified blockchain application. This method can only be performed by users who are
-                 Workbench administrators.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-blockchain.png
-  humanURL: https://docs.microsoft.com/en-us/rest/api/azure-blockchain-workbench/
-  baseURL: https:////
-  tags: Blockchain, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applicationsapplicationidenable-patch-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applicationsapplicationidenable-patch-openapi.md
 - name: Azure Blockchain Workbench REST API - Patch Applications Disable
   x-api-slug: apiv1applicationsapplicationiddisable-patch
   description: |-
@@ -102,6 +88,20 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applicationsapplicationiddisable-patch-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applicationsapplicationiddisable-patch-openapi.md
+- name: Azure Blockchain Workbench REST API - Patch Applications Enable
+  x-api-slug: apiv1applicationsapplicationidenable-patch
+  description: |-
+    Enables the specified blockchain application. This method can only be performed by users who are
+                 Workbench administrators.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-blockchain.png
+  humanURL: https://docs.microsoft.com/en-us/rest/api/azure-blockchain-workbench/
+  baseURL: https:////
+  tags: Blockchain, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applicationsapplicationidenable-patch-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applicationsapplicationidenable-patch-openapi.md
 - name: Azure Blockchain Workbench REST API - Get Applications Roleassignments
   x-api-slug: apiv1applicationsapplicationidroleassignments-get
   description: |-

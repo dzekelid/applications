@@ -12,45 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Mattermost API Reference - Get webapp plugins
-  x-api-slug: pluginswebapp-get
-  description: |-
-    Get a list of web app plugins installed and activated on the server.
-
-    ##### Permissions
-    No permissions required.
-
-    __Minimum server version__: 4.4
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png
-  humanURL: https://mattermost.com
-  baseURL: https://your-mattermost-url.com//api/v4
-  tags: Enterprise, SaaS, Technology, Cloud, API Provider, API Service Provider, Profiles,
-    Relative Data, Service API, Networks
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/pluginswebapp-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/pluginswebapp-get-openapi.md
-- name: Mattermost API Reference - Get webapp plugins
-  x-api-slug: pluginswebapp-get
-  description: |-
-    Get a list of web app plugins installed and activated on the server.
-
-    ##### Permissions
-    No permissions required.
-
-    __Minimum server version__: 4.4
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png
-  humanURL: https://mattermost.com
-  baseURL: https://your-mattermost-url.com//api/v4
-  tags: Enterprise, SaaS, Technology, Cloud, API Provider, API Service Provider, Profiles,
-    Relative Data, Service API, Networks
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/pluginswebapp-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/pluginswebapp-get-openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://matrix.api.gallery.streamdata.io

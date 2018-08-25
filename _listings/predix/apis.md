@@ -11,31 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Predix AppHub ARCS - Get all the registered microapps
-  x-api-slug: apps-get
-  description: Get the registered microapps for the given tenant
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
-  humanURL: https://www.predix.io
-  baseURL: https://predix-apphub-arcs-prod.run.aws-usw02-pr.ice.predix.io//api
-  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-- name: Predix AppHub ARCS - Get all the registered microapps
-  x-api-slug: apps-get
-  description: Get the registered microapps for the given tenant
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
-  humanURL: https://www.predix.io
-  baseURL: https://predix-apphub-arcs-prod.run.aws-usw02-pr.ice.predix.io//api
-  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://predicthq.api.gallery.streamdata.io
