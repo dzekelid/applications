@@ -21,443 +21,6 @@ apis:
   tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
     Profiles, Relative Data, Service API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-- name: New Relic
-  x-api-slug: new-relic
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  humanURL: https://newrelic.com/
-  baseURL: https:///v2/
-  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
-    Profiles, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
-- name: New Relic
-  x-api-slug: new-relic
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  humanURL: https://newrelic.com/
-  baseURL: https:///v2/
-  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
-    Profiles, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
-- name: New Relic
-  x-api-slug: new-relic
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  humanURL: https://newrelic.com/
-  baseURL: https:///v2/
-  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
-    Profiles, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
-- name: New Relic
-  x-api-slug: new-relic
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  humanURL: https://newrelic.com/
-  baseURL: https:///v2/
-  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
-    Profiles, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
-- name: New Relic
-  x-api-slug: new-relic
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  humanURL: https://newrelic.com/
-  baseURL: https:///v2/
-  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
-    Profiles, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
-- name: New Relic
-  x-api-slug: new-relic
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  humanURL: https://newrelic.com/
-  baseURL: https:///v2/
-  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
-    Profiles, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
-- name: New Relic
-  x-api-slug: new-relic
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  humanURL: https://newrelic.com/
-  baseURL: https:///v2/
-  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
-    Profiles, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
-- name: New Relic
-  x-api-slug: new-relic
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  humanURL: https://newrelic.com/
-  baseURL: https:///v2/
-  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
-    Profiles, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesid-format-get-openapi.md
-- name: New Relic
-  x-api-slug: new-relic
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  humanURL: https://newrelic.com/
-  baseURL: https:///v2/
-  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
-    Profiles, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetrics-format-get-openapi.md
-- name: New Relic
-  x-api-slug: new-relic
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  humanURL: https://newrelic.com/
-  baseURL: https:///v2/
-  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
-    Profiles, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetricsdata-format-get-openapi.md
-- name: New Relic
-  x-api-slug: new-relic
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  humanURL: https://newrelic.com/
-  baseURL: https:///v2/
-  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
-    Profiles, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetrics-format-get-openapi.md
-- name: New Relic
-  x-api-slug: new-relic
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  humanURL: https://newrelic.com/
-  baseURL: https:///v2/
-  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
-    Profiles, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetricsdata-format-get-openapi.md
-- name: New Relic
-  x-api-slug: new-relic
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  humanURL: https://newrelic.com/
-  baseURL: https:///v2/
-  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
-    Profiles, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/mobile-applicationsmobile-application-idmetrics-format-get-openapi.md
-- name: New Relic
-  x-api-slug: new-relic
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  humanURL: https://newrelic.com/
-  baseURL: https:///v2/
-  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
-    Profiles, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/mobile-applicationsmobile-application-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/mobile-applicationsmobile-application-idmetricsdata-format-get-openapi.md
-- name: New Relic
-  x-api-slug: new-relic
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  humanURL: https://newrelic.com/
-  baseURL: https:///v2/
-  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
-    Profiles, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesid-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/mobile-applicationsmobile-application-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/mobile-applicationsmobile-application-idmetricsdata-format-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
 - name: New Relic
@@ -469,6 +32,80 @@ apis:
   tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
     Profiles, Relative Data, Service API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
+- name: New Relic
+  x-api-slug: new-relic
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
+  humanURL: https://newrelic.com/
+  baseURL: https:///v2/
+  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
+- name: New Relic
+  x-api-slug: new-relic
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
+  humanURL: https://newrelic.com/
+  baseURL: https:///v2/
+  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
+- name: New Relic
+  x-api-slug: new-relic
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
+  humanURL: https://newrelic.com/
+  baseURL: https:///v2/
+  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
+- name: New Relic
+  x-api-slug: new-relic
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
+  humanURL: https://newrelic.com/
+  baseURL: https:///v2/
+  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
   - type: x-openapi-spec
@@ -480,11 +117,251 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
+- name: New Relic
+  x-api-slug: new-relic
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
+  humanURL: https://newrelic.com/
+  baseURL: https:///v2/
+  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
+- name: New Relic
+  x-api-slug: new-relic
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
+  humanURL: https://newrelic.com/
+  baseURL: https:///v2/
+  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
+- name: New Relic
+  x-api-slug: new-relic
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
+  humanURL: https://newrelic.com/
+  baseURL: https:///v2/
+  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
+- name: New Relic
+  x-api-slug: new-relic
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
+  humanURL: https://newrelic.com/
+  baseURL: https:///v2/
+  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesid-format-get-openapi.md
+- name: New Relic
+  x-api-slug: new-relic
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
+  humanURL: https://newrelic.com/
+  baseURL: https:///v2/
+  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetrics-format-get-openapi.md
+- name: New Relic
+  x-api-slug: new-relic
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
+  humanURL: https://newrelic.com/
+  baseURL: https:///v2/
+  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetrics-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetricsdata-format-get-openapi.md
+- name: New Relic
+  x-api-slug: new-relic
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
+  humanURL: https://newrelic.com/
+  baseURL: https:///v2/
+  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetrics-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetricsdata-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetrics-format-get-openapi.md
+- name: New Relic
+  x-api-slug: new-relic
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
+  humanURL: https://newrelic.com/
+  baseURL: https:///v2/
+  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
   - type: x-openapi-spec
@@ -497,12 +374,45 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetrics-format-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/mobile-applicationsmobile-application-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/mobile-applicationsmobile-application-idmetricsdata-format-get-openapi.md
+- name: New Relic
+  x-api-slug: new-relic
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
+  humanURL: https://newrelic.com/
+  baseURL: https:///v2/
+  tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
+    Profiles, Relative Data, Service API
+  properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeploymentsid-format-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetrics-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstancesinstance-idmetricsdata-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetrics-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetricsdata-format-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsid-format-get-openapi.md
 - name: New Relic
@@ -514,6 +424,8 @@ apis:
   tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
     Profiles, Relative Data, Service API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
   - type: x-openapi-spec
@@ -525,11 +437,11 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
-  - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
   - type: x-openapi-spec
@@ -542,12 +454,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetrics-format-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/mobile-applicationsmobile-application-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/mobile-applicationsmobile-application-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsid-format-get-openapi.md
   - type: x-openapi-spec
@@ -561,6 +467,8 @@ apis:
   tags: Monitoring, Performance, Stack Network, Technology, SaaS, API Service Provider,
     Profiles, Relative Data, Service API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-iddeployments-format-get-postman.md
   - type: x-openapi-spec
@@ -572,11 +480,11 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhosts-format-get-openapi.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
-  - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetrics-format-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostshost-idmetricsdata-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idhostsid-format-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idinstances-format-get-openapi.md
   - type: x-openapi-spec
@@ -589,12 +497,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetrics-format-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsapplication-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/mobile-applicationsmobile-application-idmetrics-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/mobile-applicationsmobile-application-idmetricsdata-format-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applications-format-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/applicationsid-format-get-openapi.md
   - type: x-openapi-spec

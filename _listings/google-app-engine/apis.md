@@ -25,35 +25,7 @@ apis:
     Deployments, Profiles, Relative Data, Service API
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-app-engine/v1apps-post-openapi.md
-- name: Google App Engine Admin API
-  x-api-slug: google-app-engine-admin-api
-  description: provisions-and-manages-app-engine-applications-
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-app-engine-icon.png
-  humanURL: https://cloud.google.com/appengine/
-  baseURL: ://appengine.googleapis.com//
-  tags: Google APIs, Compute, Cloud, Stack Network, API Service Provider, API Provider,
-    Deployments, Profiles, Relative Data, Service API
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-app-engine/v1apps-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-app-engine/v1appsappsid-get-openapi.md
-- name: Google App Engine Admin API
-  x-api-slug: google-app-engine-admin-api
-  description: provisions-and-manages-app-engine-applications-
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-app-engine-icon.png
-  humanURL: https://cloud.google.com/appengine/
-  baseURL: ://appengine.googleapis.com//
-  tags: Google APIs, Compute, Cloud, Stack Network, API Service Provider, API Provider,
-    Deployments, Profiles, Relative Data, Service API
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-app-engine/v1apps-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-app-engine/v1appsappsid-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-app-engine/v1appsappsid-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-app-engine/v1appsappsidrepair-post-openapi.md
 - name: Google App Engine Admin API
   x-api-slug: google-app-engine-admin-api
   description: Use this RESTful API with any programming language to manage your App

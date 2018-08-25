@@ -21,9 +21,9 @@ apis:
   tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingapplicationapplicationidreferencingresult-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apilocaleculture-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingapplicationapplicationidreferencingresult-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apilocaleculture-get-openapi.md
 - name: Dezrez
   x-api-slug: dezrez
   description: Cloud based estate agent software , sales & letting agent software,

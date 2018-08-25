@@ -24,18 +24,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
-- name: Azure Blockchain Workbench
-  x-api-slug: azure-blockchain-workbench
-  description: the-azure-blockchain-workbench-rest-api-is-a-workbench-extensibility-point-which-allows-developers-to-create-and-manage-blockchain-applications-manage-users-and-organizations-within-a-consortium-integrate-blockchain-applications-into-services-and-platforms-perform-transactions-on-a-blockchain-and-retrieve-transactional-and-contract-data-from-a-blockchain-
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-blockchain.png
-  humanURL: https://docs.microsoft.com/en-us/rest/api/azure-blockchain-workbench/
-  baseURL: https:////
-  tags: Blockchain, Relative Data, Service API
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -48,8 +36,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -66,8 +52,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -86,8 +70,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -108,8 +90,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -132,8 +112,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -160,8 +138,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -192,8 +168,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -226,8 +200,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -262,8 +234,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -302,8 +272,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -346,8 +314,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -394,8 +360,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -444,8 +408,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -496,8 +458,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -550,8 +510,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec
@@ -606,8 +564,6 @@ apis:
   baseURL: https:////
   tags: Blockchain, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1checkerscheckapplication-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apiv1applications-get-postman.md
   - type: x-openapi-spec

@@ -23,7 +23,92 @@ apis:
     Relative Data, Service API, Networks
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/teamsteam-idimport-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthapps-post-openapi.md
+- name: Mattermost API
+  x-api-slug: mattermost-api
+  description: -api-v4-is-stable-with-the-mattermost-server-4-0-release--api-v3-was-deprecated-on-january-16th-2018-and-scheduled-for-removal-in-mattermost-v5-0--details-heretagapiv3deprecation--looking-for-the-api-v3-reference-it-has-moved-herehttpsapi-mattermost-comv3-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png
+  humanURL: https://mattermost.com
+  baseURL: https://your-mattermost-url.com//api/v4
+  tags: Enterprise, SaaS, Technology, Cloud, API Provider, API Service Provider, Profiles,
+    Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthapps-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthappsapp-id-get-openapi.md
+- name: Mattermost API
+  x-api-slug: mattermost-api
+  description: -api-v4-is-stable-with-the-mattermost-server-4-0-release--api-v3-was-deprecated-on-january-16th-2018-and-scheduled-for-removal-in-mattermost-v5-0--details-heretagapiv3deprecation--looking-for-the-api-v3-reference-it-has-moved-herehttpsapi-mattermost-comv3-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png
+  humanURL: https://mattermost.com
+  baseURL: https://your-mattermost-url.com//api/v4
+  tags: Enterprise, SaaS, Technology, Cloud, API Provider, API Service Provider, Profiles,
+    Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthapps-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthappsapp-id-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthappsapp-id-put-openapi.md
+- name: Mattermost API
+  x-api-slug: mattermost-api
+  description: -api-v4-is-stable-with-the-mattermost-server-4-0-release--api-v3-was-deprecated-on-january-16th-2018-and-scheduled-for-removal-in-mattermost-v5-0--details-heretagapiv3deprecation--looking-for-the-api-v3-reference-it-has-moved-herehttpsapi-mattermost-comv3-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png
+  humanURL: https://mattermost.com
+  baseURL: https://your-mattermost-url.com//api/v4
+  tags: Enterprise, SaaS, Technology, Cloud, API Provider, API Service Provider, Profiles,
+    Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthapps-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthappsapp-id-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthappsapp-id-put-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthappsapp-id-delete-openapi.md
+- name: Mattermost API
+  x-api-slug: mattermost-api
+  description: -api-v4-is-stable-with-the-mattermost-server-4-0-release--api-v3-was-deprecated-on-january-16th-2018-and-scheduled-for-removal-in-mattermost-v5-0--details-heretagapiv3deprecation--looking-for-the-api-v3-reference-it-has-moved-herehttpsapi-mattermost-comv3-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png
+  humanURL: https://mattermost.com
+  baseURL: https://your-mattermost-url.com//api/v4
+  tags: Enterprise, SaaS, Technology, Cloud, API Provider, API Service Provider, Profiles,
+    Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthapps-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthappsapp-id-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthappsapp-id-put-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthappsapp-id-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthappsapp-idregen-secret-post-openapi.md
+- name: Mattermost API
+  x-api-slug: mattermost-api
+  description: -api-v4-is-stable-with-the-mattermost-server-4-0-release--api-v3-was-deprecated-on-january-16th-2018-and-scheduled-for-removal-in-mattermost-v5-0--details-heretagapiv3deprecation--looking-for-the-api-v3-reference-it-has-moved-herehttpsapi-mattermost-comv3-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png
+  humanURL: https://mattermost.com
+  baseURL: https://your-mattermost-url.com//api/v4
+  tags: Enterprise, SaaS, Technology, Cloud, API Provider, API Service Provider, Profiles,
+    Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthapps-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthappsapp-id-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthappsapp-id-put-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthappsapp-id-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthappsapp-idregen-secret-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/oauthappsapp-idinfo-get-openapi.md
 - name: Mattermost API
   x-api-slug: mattermost-api
   description: Open source, private cloud Slack-alternative, Workplace messaging for
