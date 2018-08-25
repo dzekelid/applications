@@ -17,6 +17,44 @@ produces:
 consumes:
 - application/json
 paths:
+  /applications.{format}:
+    get:
+      summary: Get Applications. Format
+      description: "This API endpoint returns a paginated\nlist of the Applications
+        associated with your New Relic account. The time range for summary data is
+        the last 10 minutes.\n\nApplications can be filtered by their name, hosts,
+        the list of application IDs or the application language as\nreported by the
+        agents.\n\nSee our documentation for a discussion and examples of\nusing  filters
+        \nand summary data output."
+      operationId: getApplications.Format
+      x-api-path-slug: applications-format-get
+      parameters:
+      - in: query
+        name: filter[host]
+        description: Filter by application host
+        type: string
+      - in: query
+        name: filter[ids]
+        description: Filter by application ids
+        type: list
+      - in: query
+        name: filter[language]
+        description: Filter by application language
+        type: string
+      - in: query
+        name: filter[name]
+        description: Filter by application name
+        type: string
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Applications.
+      - Format
   /applications/{application_id}/deployments.{format}:
     get:
       summary: Get Applications Application  Deployments. Format

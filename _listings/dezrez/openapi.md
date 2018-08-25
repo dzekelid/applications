@@ -14,16 +14,17 @@ produces:
 consumes:
 - application/json
 paths:
-  /api/tenantreferncing/application/{applicationId}/referencingresult:
+  /api/locale/{culture}:
     get:
-      summary: Get the details of an individual application referencing result
-      description: Get the details of an individual application referencing result.
-      operationId: TenantReferencing_GetApplicationStatusByapplicationId
-      x-api-path-slug: apitenantreferncingapplicationapplicationidreferencingresult-get
+      summary: returns the json file containing localization for the app based on
+        a culture string, and any custom values for the agent
+      description: Returns the json file containing localization for the app based
+        on a culture string, and any custom values for the agent.
+      operationId: Locale_GetLocalisationFileByculture
+      x-api-path-slug: apilocaleculture-get
       parameters:
       - in: path
-        name: applicationId
-        description: The id of the application to retrieve results for
+        name: culture
       - in: header
         name: Rezi-Api-Version
         description: Specifies which version of the API to call
@@ -31,10 +32,19 @@ paths:
         200:
           description: OK
       tags:
-      - Details
-      - Of
-      - Individual
-      - Application
-      - Referencing
-      - Result
+      - Returns
+      - Json
+      - File
+      - Containing
+      - Localizationthe
+      - App
+      - Based
+      - "On"
+      - Culture
+      - String
+      - ""
+      - Any
+      - Custom
+      - Valuesthe
+      - Agent
 ---

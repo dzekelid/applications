@@ -12,19 +12,20 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Dezrez.Rezi.Client.Api - Get the details of an individual application referencing
-    result
-  x-api-slug: apitenantreferncingapplicationapplicationidreferencingresult-get
-  description: Get the details of an individual application referencing result.
+- name: Dezrez.Rezi.Client.Api - returns the json file containing localization for
+    the app based on a culture string, and any custom values for the agent
+  x-api-slug: apilocaleculture-get
+  description: Returns the json file containing localization for the app based on
+    a culture string, and any custom values for the agent.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
   humanURL: https://www.dezrez.com
   baseURL: https://api.dezrez.com//
   tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingapplicationapplicationidreferencingresult-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apilocaleculture-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apitenantreferncingapplicationapplicationidreferencingresult-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apilocaleculture-get-openapi.md
 x-common:
 - type: x-github
   url: https://github.com/dezrez
