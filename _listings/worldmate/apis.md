@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/worldmate/apis.md
 specificationVersion: "0.14"
-apis:
-- name: WorldMate
-  x-api-slug: worldmate
-  description: Join over 10 million travelers who rely on WorldMate to plan, book,
-    and manage every aspect of their trips.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1221-worldmate.jpg
-  humanURL: https://worldmate.com
-  baseURL: https:///
-  tags: Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/worldmate/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: http://api.worldmate.com

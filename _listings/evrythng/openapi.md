@@ -15,6 +15,31 @@ produces:
 consumes:
 - application/json
 paths:
+  /projects/{PROJECT_ID}/applications/:
+    post:
+      summary: /applications/ (O)
+      description: OPERATOR creates a new application.
+      operationId: ProjectsApplicationsByPROJECTIDPost
+      x-api-path-slug: projectsproject-idapplications-post
+      parameters:
+      - in: header
+        name: Accept
+      - in: body
+        name: Body
+        schema:
+          $ref: '#/definitions/holder'
+      - in: header
+        name: Content-Type
+      - in: path
+        name: PROJECT_ID
+      responses:
+        200:
+          description: OK
+      tags:
+      - Projects
+      - PROJECT
+      - ID
+      - Applications
   /projects/{PROJECT_ID}/applications/{APP_ID}:
     get:
       summary: /applications/{id} (O)

@@ -16,47 +16,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS CodeDeploy API
-  x-api-slug: aws-codedeploy-api
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
-  humanURL: https://aws.amazon.com/codedeploy/
-  baseURL: :///
-  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
-    API Service Provider, API Provider, Profiles, Relative Data, Service API
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionbatchgetapplications-get-openapi.md
-- name: AWS CodeDeploy API
-  x-api-slug: aws-codedeploy-api
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
-  humanURL: https://aws.amazon.com/codedeploy/
-  baseURL: :///
-  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
-    API Service Provider, API Provider, Profiles, Relative Data, Service API
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionbatchgetapplications-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionlistapplications-get-openapi.md
-- name: AWS CodeDeploy API
-  x-api-slug: aws-codedeploy-api
-  description: AWS CodeDeploy is a service that automates code deployments to any
-    instance, including Amazon EC2 instances and instances running on-premises. AWS
-    CodeDeploy makes it easier for you to rapidly release new features, helps you
-    avoid downtime during application deployment, and handles the complexity of updating
-    your applications. You can use AWS CodeDeploy to automate software deployments,
-    eliminating the need for error-prone manual operations, and the service scales
-    with your infrastructure so you can easily deploy to one instance or thousands.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
-  humanURL: https://aws.amazon.com/codedeploy/
-  baseURL: :///
-  tags: Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://aws.codecommit.api.gallery.streamdata.io

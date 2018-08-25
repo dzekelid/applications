@@ -18,45 +18,6 @@ produces:
 consumes:
 - application/json
 paths:
-  /Accounts/{AccountSid}/Applications.{format}:
-    get:
-      summary: Get Applications
-      description: Get Applications
-      operationId: returns-a-list-of-application-resource-representations-each-representingan-application-within-your-a
-      x-api-path-slug: accountsaccountsidapplications-format-get
-      parameters:
-      - in: path
-        name: AccountSid
-        description: The ID for the Twilio account
-      - in: path
-        name: format
-        description: By default, Twilios REST API returns XML
-        type: string
-        format: string
-      responses:
-        200:
-          description: OK
-      tags:
-      - Applications
-    post:
-      summary: Add Applications
-      description: Add Applications
-      operationId: creates-a-new-application-within-your-account
-      x-api-path-slug: accountsaccountsidapplications-format-post
-      parameters:
-      - in: path
-        name: AccountSid
-        description: The ID for the Twilio account
-      - in: path
-        name: format
-        description: By default, Twilios REST API returns XML
-        type: string
-        format: string
-      responses:
-        200:
-          description: OK
-      tags:
-      - Applications
   /Accounts/{AccountSid}/Applications/{ApplicationSid}.{format}:
     delete:
       summary: Delete Application

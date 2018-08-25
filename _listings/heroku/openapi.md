@@ -15,6 +15,47 @@ produces:
 consumes:
 - application/json
 paths:
+  /apps/{app}/addons/{addon}:
+    parameters:
+      summary: Parameters Applications Addons
+      description: Parameters applications addons.
+      operationId: parametersAppsAppAddonsAddon
+      x-api-path-slug: appsappaddonsaddon-parameters
+      responses:
+        200:
+          description: OK
+      tags:
+      - Parameters
+      - Applications
+      - ons
+    delete:
+      summary: Delete Applications Addons
+      description: Uninstall an addon from an app.
+      operationId: deleteAppsAppAddonsAddon
+      x-api-path-slug: appsappaddonsaddon-delete
+      parameters:
+      - in: header
+        name: Accept
+        description: Content type
+      - in: query
+        name: Accept
+        description: Content type
+      - in: query
+        name: addon
+        description: the addon name
+      - in: path
+        name: addon
+      - in: query
+        name: app
+        description: The app name
+      - in: path
+        name: app
+      responses:
+        200:
+          description: OK
+      tags:
+      - Applications
+      - ons
   /apps:
     parameters:
       summary: Parameters Applications
@@ -61,47 +102,6 @@ paths:
           description: OK
       tags:
       - Applications
-  /apps/{app}/addons/{addon}:
-    parameters:
-      summary: Parameters Applications Addons
-      description: Parameters applications addons.
-      operationId: parametersAppsAppAddonsAddon
-      x-api-path-slug: appsappaddonsaddon-parameters
-      responses:
-        200:
-          description: OK
-      tags:
-      - Parameters
-      - Applications
-      - ons
-    delete:
-      summary: Delete Applications Addons
-      description: Uninstall an addon from an app.
-      operationId: deleteAppsAppAddonsAddon
-      x-api-path-slug: appsappaddonsaddon-delete
-      parameters:
-      - in: header
-        name: Accept
-        description: Content type
-      - in: query
-        name: Accept
-        description: Content type
-      - in: query
-        name: addon
-        description: the addon name
-      - in: path
-        name: addon
-      - in: query
-        name: app
-        description: The app name
-      - in: path
-        name: app
-      responses:
-        200:
-          description: OK
-      tags:
-      - Applications
-      - ons
   /apps/{name}:
     parameters:
       summary: Parameters Applications Name
