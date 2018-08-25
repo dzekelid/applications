@@ -14,132 +14,293 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Applications
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/apis.md
 specificationVersion: "0.14"
 apis:
-- name: AWS Kinesis Analytics API Add Application Input
+- name: AWS Kinesis Analytics API
   x-api-slug: aws-kinesis-analytics-api
-  description: Adds a streaming source to your Amazon Kinesis application.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
   humanURL: https://aws.amazon.com/kinesis/analytics/
-  baseURL: ://///?Action=AddApplicationInput
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Analysis, Logging, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationinput-get-openapi.md
-- name: AWS Kinesis Analytics API Add Application Output
+- name: AWS Kinesis Analytics API
   x-api-slug: aws-kinesis-analytics-api
-  description: Adds an external destination to your Amazon Kinesis Analytics application.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
   humanURL: https://aws.amazon.com/kinesis/analytics/
-  baseURL: ://///?Action=AddApplicationOutput
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Analysis, Logging, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationinput-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationoutput-get-openapi.md
-- name: AWS Kinesis Analytics API Add Application Reference Data Source
+- name: AWS Kinesis Analytics API
   x-api-slug: aws-kinesis-analytics-api
-  description: Adds a reference data source to an existing application.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
   humanURL: https://aws.amazon.com/kinesis/analytics/
-  baseURL: ://///?Action=AddApplicationReferenceDataSource
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Analysis, Logging, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationinput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationoutput-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationreferencedatasource-get-openapi.md
-- name: AWS Kinesis Analytics API Create Application
+- name: AWS Kinesis Analytics API
   x-api-slug: aws-kinesis-analytics-api
-  description: Creates an Amazon Kinesis Analytics application.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
   humanURL: https://aws.amazon.com/kinesis/analytics/
-  baseURL: ://///?Action=CreateApplication
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Analysis, Logging, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationinput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationoutput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationreferencedatasource-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actioncreateapplication-get-openapi.md
-- name: AWS Kinesis Analytics API Delete Application
+- name: AWS Kinesis Analytics API
   x-api-slug: aws-kinesis-analytics-api
-  description: Deletes the specified application.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
   humanURL: https://aws.amazon.com/kinesis/analytics/
-  baseURL: ://///?Action=DeleteApplication
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Analysis, Logging, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationinput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationoutput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationreferencedatasource-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actioncreateapplication-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplication-get-openapi.md
-- name: AWS Kinesis Analytics API Delete Application Output
+- name: AWS Kinesis Analytics API
   x-api-slug: aws-kinesis-analytics-api
-  description: Deletes output destination configuration from your application configuration.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
   humanURL: https://aws.amazon.com/kinesis/analytics/
-  baseURL: ://///?Action=DeleteApplicationOutput
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Analysis, Logging, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationinput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationoutput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationreferencedatasource-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplication-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplicationoutput-get-openapi.md
-- name: AWS Kinesis Analytics API Delete Application Reference Data Source
+- name: AWS Kinesis Analytics API
   x-api-slug: aws-kinesis-analytics-api
-  description: Deletes a reference data source configuration from the specified application
-    configuration.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
   humanURL: https://aws.amazon.com/kinesis/analytics/
-  baseURL: ://///?Action=DeleteApplicationReferenceDataSource
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Analysis, Logging, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationinput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationoutput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationreferencedatasource-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplicationoutput-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplicationreferencedatasource-get-openapi.md
-- name: AWS Kinesis Analytics API Describe Application
+- name: AWS Kinesis Analytics API
   x-api-slug: aws-kinesis-analytics-api
-  description: Returns information about a specific Amazon Kinesis Analytics application.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
   humanURL: https://aws.amazon.com/kinesis/analytics/
-  baseURL: ://///?Action=DescribeApplication
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Analysis, Logging, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
   properties:
   - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationinput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationoutput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationreferencedatasource-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplicationoutput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplicationreferencedatasource-get-openapi.md
+  - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondescribeapplication-get-openapi.md
-- name: AWS Kinesis Analytics API List Applications
+- name: AWS Kinesis Analytics API
   x-api-slug: aws-kinesis-analytics-api
-  description: Returns a list of Amazon Kinesis Analytics applications in your account.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
   humanURL: https://aws.amazon.com/kinesis/analytics/
-  baseURL: ://///?Action=ListApplications
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Analysis, Logging, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationinput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationoutput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationreferencedatasource-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplicationoutput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplicationreferencedatasource-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondescribeapplication-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionlistapplications-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionlistapplications-get-openapi.md
-- name: AWS Kinesis Analytics API Start Application
+- name: AWS Kinesis Analytics API
   x-api-slug: aws-kinesis-analytics-api
-  description: Starts the specified Amazon Kinesis Analytics application.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
   humanURL: https://aws.amazon.com/kinesis/analytics/
-  baseURL: ://///?Action=StartApplication
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Analysis, Logging, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationinput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationoutput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationreferencedatasource-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplicationoutput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplicationreferencedatasource-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondescribeapplication-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionlistapplications-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionlistapplications-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionstartapplication-get-openapi.md
-- name: AWS Kinesis Analytics API Stop Application
+- name: AWS Kinesis Analytics API
   x-api-slug: aws-kinesis-analytics-api
-  description: Stops the application from processing input data.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
   humanURL: https://aws.amazon.com/kinesis/analytics/
-  baseURL: ://///?Action=StopApplication
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Analysis, Logging, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
   properties:
   - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationinput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationoutput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationreferencedatasource-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplicationoutput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplicationreferencedatasource-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondescribeapplication-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionlistapplications-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionlistapplications-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionstartapplication-get-openapi.md
+  - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionstopapplication-get-openapi.md
-- name: AWS Kinesis Analytics API Update Application
+- name: AWS Kinesis Analytics API
   x-api-slug: aws-kinesis-analytics-api
-  description: Updates an existing Amazon Kinesis Analytics application.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
   humanURL: https://aws.amazon.com/kinesis/analytics/
-  baseURL: ://///?Action=UpdateApplication
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Analysis, Logging, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationinput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationoutput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionaddapplicationreferencedatasource-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplicationoutput-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondeleteapplicationreferencedatasource-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actiondescribeapplication-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionlistapplications-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionlistapplications-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionstartapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionstopapplication-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/actionupdateapplication-get-openapi.md
 - name: AWS Kinesis Analytics API
@@ -161,6 +322,10 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://aws.kinesis.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://aws.kinesis.analytics.stack.network
 - type: x-authentication
   url: https://docs.aws.amazon.com/kinesisanalytics/latest/dev/authentication-and-access-control.html
 - type: x-best-practices

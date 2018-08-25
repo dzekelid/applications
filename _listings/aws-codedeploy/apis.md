@@ -12,71 +12,105 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Applications
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/apis.md
 specificationVersion: "0.14"
 apis:
-- name: AWS CodeDeploy API Batch Get Applications
+- name: AWS CodeDeploy API
   x-api-slug: aws-codedeploy-api
-  description: Gets information about one or more applications.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
   humanURL: https://aws.amazon.com/codedeploy/
-  baseURL: ://///?Action=BatchGetApplications
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionbatchgetapplications-get-openapi.md
-- name: AWS CodeDeploy API Create Application
+- name: AWS CodeDeploy API
   x-api-slug: aws-codedeploy-api
-  description: Creates an application.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
   humanURL: https://aws.amazon.com/codedeploy/
-  baseURL: ://///?Action=CreateApplication
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionbatchgetapplications-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actioncreateapplication-get-openapi.md
-- name: AWS CodeDeploy API Delete Application
+- name: AWS CodeDeploy API
   x-api-slug: aws-codedeploy-api
-  description: Deletes an application.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
   humanURL: https://aws.amazon.com/codedeploy/
-  baseURL: ://///?Action=DeleteApplication
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionbatchgetapplications-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actioncreateapplication-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actiondeleteapplication-get-openapi.md
-- name: AWS CodeDeploy API Get Application
+- name: AWS CodeDeploy API
   x-api-slug: aws-codedeploy-api
-  description: Gets information about an application.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
   humanURL: https://aws.amazon.com/codedeploy/
-  baseURL: ://///?Action=GetApplication
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionbatchgetapplications-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actiondeleteapplication-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actiongetapplication-get-openapi.md
-- name: AWS CodeDeploy API List Applications
+- name: AWS CodeDeploy API
   x-api-slug: aws-codedeploy-api
-  description: |-
-    Lists the applications registered with the applicable IAM user or AWS
-                account.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
   humanURL: https://aws.amazon.com/codedeploy/
-  baseURL: ://///?Action=ListApplications
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
   properties:
   - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionbatchgetapplications-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actiondeleteapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actiongetapplication-get-openapi.md
+  - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionlistapplications-get-openapi.md
-- name: AWS CodeDeploy API Update Application
+- name: AWS CodeDeploy API
   x-api-slug: aws-codedeploy-api
-  description: Changes the name of an application.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
   humanURL: https://aws.amazon.com/codedeploy/
-  baseURL: ://///?Action=UpdateApplication
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionbatchgetapplications-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actiondeleteapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actiongetapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionlistapplications-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionupdateapplication-get-openapi.md
 - name: AWS CodeDeploy API
@@ -96,6 +130,10 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://aws.codecommit.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://aws.codedeploy.stack.network
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/cli/latest/reference/codedeploy
 - type: x-documentation

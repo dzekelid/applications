@@ -7,89 +7,177 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku
 x-kinRank: "8"
 x-alexaRank: "6044"
 tags: Applications
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Heroku Parameters Applications Addons
+- name: Heroku
   x-api-slug: heroku
-  description: Parameters applications addons.
+  description: manage-your-heroku-apps-configs-collaborators--resources
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
   humanURL: http://heroku.com
-  baseURL: https://api.heroku.com////apps/{app}/addons/{addon}
-  tags: Parameters, Applications, ons
+  baseURL: https://api.heroku.com//
+  tags: PaaS, My API Stack, API LIfeyclessss, Command Line Interface, Issues, Issues
+    Example, Federal Government, Federal Government, Federal Government, Federal Government,
+    Stack Network, Developers, Code, Compute, Getting Started Example, Technology,
+    SaaS, API Provider, API Service Provider, Databases, Profiles, Relative Data,
+    Service API
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsappaddonsaddon-parameters-openapi.md
-- name: Heroku Delete Applications Addons
+- name: Heroku
   x-api-slug: heroku
-  description: Uninstall an addon from an app.
+  description: manage-your-heroku-apps-configs-collaborators--resources
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
   humanURL: http://heroku.com
-  baseURL: https://api.heroku.com////apps/{app}/addons/{addon}
-  tags: Applications, ons
+  baseURL: https://api.heroku.com//
+  tags: PaaS, My API Stack, API LIfeyclessss, Command Line Interface, Issues, Issues
+    Example, Federal Government, Federal Government, Federal Government, Federal Government,
+    Stack Network, Developers, Code, Compute, Getting Started Example, Technology,
+    SaaS, API Provider, API Service Provider, Databases, Profiles, Relative Data,
+    Service API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsappaddonsaddon-parameters-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsappaddonsaddon-delete-openapi.md
-- name: Heroku Parameters Applications
+- name: Heroku
   x-api-slug: heroku
-  description: Parameters applications.
+  description: manage-your-heroku-apps-configs-collaborators--resources
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
   humanURL: http://heroku.com
-  baseURL: https://api.heroku.com////apps
-  tags: Parameters, Applications
+  baseURL: https://api.heroku.com//
+  tags: PaaS, My API Stack, API LIfeyclessss, Command Line Interface, Issues, Issues
+    Example, Federal Government, Federal Government, Federal Government, Federal Government,
+    Stack Network, Developers, Code, Compute, Getting Started Example, Technology,
+    SaaS, API Provider, API Service Provider, Databases, Profiles, Relative Data,
+    Service API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsappaddonsaddon-parameters-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsappaddonsaddon-delete-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-parameters-openapi.md
-- name: Heroku Get Applications
+- name: Heroku
   x-api-slug: heroku
-  description: Get applications.
+  description: manage-your-heroku-apps-configs-collaborators--resources
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
   humanURL: http://heroku.com
-  baseURL: https://api.heroku.com////apps
-  tags: Applications
+  baseURL: https://api.heroku.com//
+  tags: PaaS, My API Stack, API LIfeyclessss, Command Line Interface, Issues, Issues
+    Example, Federal Government, Federal Government, Federal Government, Federal Government,
+    Stack Network, Developers, Code, Compute, Getting Started Example, Technology,
+    SaaS, API Provider, API Service Provider, Databases, Profiles, Relative Data,
+    Service API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsappaddonsaddon-parameters-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsappaddonsaddon-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-parameters-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-get-openapi.md
-- name: Heroku Add Applications
+- name: Heroku
   x-api-slug: heroku
-  description: Add applications.
+  description: manage-your-heroku-apps-configs-collaborators--resources
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
   humanURL: http://heroku.com
-  baseURL: https://api.heroku.com////apps
-  tags: Applications
+  baseURL: https://api.heroku.com//
+  tags: PaaS, My API Stack, API LIfeyclessss, Command Line Interface, Issues, Issues
+    Example, Federal Government, Federal Government, Federal Government, Federal Government,
+    Stack Network, Developers, Code, Compute, Getting Started Example, Technology,
+    SaaS, API Provider, API Service Provider, Databases, Profiles, Relative Data,
+    Service API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsappaddonsaddon-parameters-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsappaddonsaddon-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-parameters-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-post-openapi.md
-- name: Heroku Parameters Applications Name
+- name: Heroku
   x-api-slug: heroku
-  description: Parameters applications name.
+  description: manage-your-heroku-apps-configs-collaborators--resources
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
   humanURL: http://heroku.com
-  baseURL: https://api.heroku.com////apps/{name}
-  tags: Parameters, Applications, Name
+  baseURL: https://api.heroku.com//
+  tags: PaaS, My API Stack, API LIfeyclessss, Command Line Interface, Issues, Issues
+    Example, Federal Government, Federal Government, Federal Government, Federal Government,
+    Stack Network, Developers, Code, Compute, Getting Started Example, Technology,
+    SaaS, API Provider, API Service Provider, Databases, Profiles, Relative Data,
+    Service API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsappaddonsaddon-parameters-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsappaddonsaddon-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-parameters-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-post-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsname-parameters-openapi.md
-- name: Heroku Get Applications Name
+- name: Heroku
   x-api-slug: heroku
-  description: Get applications name.
+  description: manage-your-heroku-apps-configs-collaborators--resources
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
   humanURL: http://heroku.com
-  baseURL: https://api.heroku.com////apps/{name}
-  tags: Applications, Name
+  baseURL: https://api.heroku.com//
+  tags: PaaS, My API Stack, API LIfeyclessss, Command Line Interface, Issues, Issues
+    Example, Federal Government, Federal Government, Federal Government, Federal Government,
+    Stack Network, Developers, Code, Compute, Getting Started Example, Technology,
+    SaaS, API Provider, API Service Provider, Databases, Profiles, Relative Data,
+    Service API
   properties:
   - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsappaddonsaddon-parameters-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsappaddonsaddon-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-parameters-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsname-parameters-openapi.md
+  - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsname-get-openapi.md
-- name: Heroku Delete Applications Name
+- name: Heroku
   x-api-slug: heroku
-  description: Delete applications name.
+  description: manage-your-heroku-apps-configs-collaborators--resources
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
   humanURL: http://heroku.com
-  baseURL: https://api.heroku.com////apps/{name}
-  tags: Applications, Name
+  baseURL: https://api.heroku.com//
+  tags: PaaS, My API Stack, API LIfeyclessss, Command Line Interface, Issues, Issues
+    Example, Federal Government, Federal Government, Federal Government, Federal Government,
+    Stack Network, Developers, Code, Compute, Getting Started Example, Technology,
+    SaaS, API Provider, API Service Provider, Databases, Profiles, Relative Data,
+    Service API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsappaddonsaddon-parameters-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsappaddonsaddon-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-parameters-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apps-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsname-parameters-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsname-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/appsname-delete-openapi.md
 - name: Heroku
@@ -103,6 +191,10 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://here.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://heroku.stack.network
 - type: x-base
   url: https://api.heroku.com
 - type: x-blog

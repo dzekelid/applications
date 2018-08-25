@@ -15,71 +15,23 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Applications
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/apis.md
 specificationVersion: "0.14"
 apis:
-- name: AWS Simple Notification Service API Create Platform Application
+- name: AWS Simple Notification Service API
   x-api-slug: aws-simple-notification-service-api
-  description: |-
-    Creates a platform application object for one of the supported push notification services,
-          such as APNS and GCM, to which devices and mobile apps may register.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
   humanURL: https://aws.amazon.com/sns/
-  baseURL: ://///?Action=CreatePlatformApplication
-  tags: Platform Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/actioncreateplatformapplication-get-openapi.md
-- name: AWS Simple Notification Service API Delete Platform Application
-  x-api-slug: aws-simple-notification-service-api
-  description: |-
-    Deletes a platform application object for one of the supported push notification services,
-          such as APNS and GCM.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
-  humanURL: https://aws.amazon.com/sns/
-  baseURL: ://///?Action=DeletePlatformApplication
-  tags: Platform Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/actiondeleteplatformapplication-get-openapi.md
-- name: AWS Simple Notification Service API Get Platform Application Attributes
-  x-api-slug: aws-simple-notification-service-api
-  description: |-
-    Retrieves the attributes of the platform application object for the supported push
-          notification services, such as APNS and GCM.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
-  humanURL: https://aws.amazon.com/sns/
-  baseURL: ://///?Action=GetPlatformApplicationAttributes
-  tags: Platform Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/actiongetplatformapplicationattributes-get-openapi.md
-- name: AWS Simple Notification Service API List Platform Applications
-  x-api-slug: aws-simple-notification-service-api
-  description: |-
-    Lists the platform application objects for the supported push notification services, such as
-          APNS and GCM.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
-  humanURL: https://aws.amazon.com/sns/
-  baseURL: ://///?Action=ListPlatformApplications
-  tags: Platform Applications
+  baseURL: :///
+  tags: Amazon Web Services, Notifications, SMS, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Messages, Profiles, Relative Data, Service
+    API
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/actionlistplatformapplications-get-openapi.md
-- name: AWS Simple Notification Service API Set Platform Application Attributes
-  x-api-slug: aws-simple-notification-service-api
-  description: |-
-    Sets the attributes of the platform application object for the supported push notification
-          services, such as APNS and GCM.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
-  humanURL: https://aws.amazon.com/sns/
-  baseURL: ://///?Action=SetPlatformApplicationAttributes
-  tags: Platform Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/actionsetplatformapplicationattributes-get-openapi.md
 - name: AWS Simple Notification Service API
   x-api-slug: aws-simple-notification-service-api
   description: Amazon Simple Notification Service (Amazon SNS) is a fast, flexible,
@@ -100,6 +52,10 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://aws.simple.email.service.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://aws.simple.notification.service.stack.network
 - type: x-change-log
   url: http://aws.amazon.com/releasenotes/Amazon-SN
 - type: x-console

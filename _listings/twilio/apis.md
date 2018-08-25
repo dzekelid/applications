@@ -7,138 +7,754 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio
 x-kinRank: "10"
 x-alexaRank: "9195"
 tags: Applications
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Twilio Delete Application
+- name: Twilio
   x-api-slug: twilio
-  description: Delete Application
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
   humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01///Accounts/{AccountSid}/Applications/{ApplicationSid}.{format}
-  tags: Applications
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
-- name: Twilio Get Application
+- name: Twilio
   x-api-slug: twilio
-  description: Get application instance resource.
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
   humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01///Accounts/{AccountSid}/Applications/{ApplicationSid}.{format}
-  tags: Applications
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
   properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
-- name: Twilio Add Application
+- name: Twilio
   x-api-slug: twilio
-  description: Tries to update the applications properties, and returns the updatednresource
-    representation if successful. The returned response is identicalnto that returned
-    above when making a GET request.n
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
   humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01///Accounts/{AccountSid}/Applications/{ApplicationSid}.{format}
-  tags: Applications
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
   properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
-- name: Twilio Get Applications
+- name: Twilio
   x-api-slug: twilio
-  description: Get Applications
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
   humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01///Accounts/{AccountSid}/Applications.{format}
-  tags: Applications
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
   properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
-- name: Twilio Add Applications
+- name: Twilio
   x-api-slug: twilio
-  description: Add Applications
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
   humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01///Accounts/{AccountSid}/Applications.{format}
-  tags: Applications
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
   properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
-- name: Twilio Get Authorized Connected App
+- name: Twilio
   x-api-slug: twilio
-  description: Get the properties of the authorized application.
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
   humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01///Accounts/{AccountSid}/AuthorizedConnectApps/{ConnectAppSid}.{format}
-  tags: Applications
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
   properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
-- name: Twilio Get Authorized Connected Apps
+- name: Twilio
   x-api-slug: twilio
-  description: Returns a list of Connect App resource representations, each representing
-    anConnect App youve authorized to access your account. The list includesnpaging
-    information.n
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
   humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01///Accounts/{AccountSid}/AuthorizedConnectApps.{format}
-  tags: Applications
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
   properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
-- name: Twilio Get Connected App
+- name: Twilio
   x-api-slug: twilio
-  description: Get the properties of a Connect App.
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
   humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01///Accounts/{AccountSid}/ConnectApps/{ConnectAppSid}.{format}
-  tags: Applications
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
   properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
-- name: Twilio Add Connected App
+- name: Twilio
   x-api-slug: twilio
-  description: Tries to update the Connect Apps properties, and returns the updatednresource
-    representation if successful. The returned response is identicalnto that returned
-    above when making a GET request.n
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
   humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01///Accounts/{AccountSid}/ConnectApps/{ConnectAppSid}.{format}
-  tags: Applications
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
   properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-openapi.md
-- name: Twilio Get Connected Apps
+- name: Twilio
   x-api-slug: twilio
-  description: Returns a list of Connect App resource representations, each representingna
-    Connect App in your account. The list includes paging information.n
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
   humanURL: http://www.twilio.com
-  baseURL: https://api.twilio.com//2010-04-01///Accounts/{AccountSid}/ConnectApps.{format}
-  tags: Applications
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
   properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-openapi.md
+- name: Twilio
+  x-api-slug: twilio
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+- name: Twilio
+  x-api-slug: twilio
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+- name: Twilio
+  x-api-slug: twilio
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-openapi.md
+- name: Twilio
+  x-api-slug: twilio
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
+- name: Twilio
+  x-api-slug: twilio
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-openapi.md
+- name: Twilio
+  x-api-slug: twilio
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
+- name: Twilio
+  x-api-slug: twilio
+  description: twilio-is-a-cloud-communications-infrastructure-as-a-serviceiaas-company-based-in-san-francisco-california--twilio-allows-software-developers-to-programmatically-make-and-receive-phone-calls-and-send-and-receive-text-messages-using-its-web-service-apis--twilios-services-are-accessed-over-http-and-are-billed-based-on-usage-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplicationsapplicationsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidauthorizedconnectappsconnectappsid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectapps-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidconnectappsconnectappsid-format-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/accountsaccountsidapplications-format-post-openapi.md
 - name: Twilio
   x-api-slug: twilio
   description: Cloud communications platform for building SMS, Voice & Messaging applications
@@ -155,6 +771,10 @@ x-common:
   url: https://www.twilio.com/docs/csharp/install
 - type: x-acceptable-use-policy
   url: https://www.twilio.com/legal/aup
+- type: x-api-gallery
+  url: http://tvmaze.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://twilio.stack.network
 - type: x-application-gallery
   url: https://www.twilio.com/showcase
 - type: x-base-url

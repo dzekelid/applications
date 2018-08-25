@@ -221,6 +221,27 @@ paths:
           description: OK
       tags:
       - Applications
+  /Accounts/{AccountSid}/ConnectApps.{format}:
+    get:
+      summary: Get Connected Apps
+      description: Returns a list of Connect App resource representations, each representingna
+        Connect App in your account. The list includes paging information.n
+      operationId: returns-a-list-of-connect-app-resource-representations-each-representinga-connect-app-in-your-accoun
+      x-api-path-slug: accountsaccountsidconnectapps-format-get
+      parameters:
+      - in: path
+        name: AccountSid
+        description: The ID for the Twilio account
+      - in: path
+        name: format
+        description: By default, Twilios REST API returns XML
+        type: string
+        format: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Applications
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0

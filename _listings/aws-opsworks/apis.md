@@ -8,55 +8,37 @@ description: AWS OpsWorks is a configuration management service that uses Chef, 
   OpsWorks has two offerings, AWS Opsworks for Chef Automate, and AWS OpsWorks Stacks.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Applications
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/apis.md
 specificationVersion: "0.14"
 apis:
-- name: AWS OpsWorks API Create App
+- name: AWS OpsWorks API
   x-api-slug: aws-opsworks-api
-  description: Creates an app for a specified stack.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png
   humanURL: https://aws.amazon.com/opsworks/
-  baseURL: ://///?Action=CreateApp
-  tags: Applications
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/actioncreateapp-get-openapi.md
-- name: AWS OpsWorks API Delete App
-  x-api-slug: aws-opsworks-api
-  description: Deletes a specified app.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png
-  humanURL: https://aws.amazon.com/opsworks/
-  baseURL: ://///?Action=DeleteApp
-  tags: Applications
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/actiondeleteapp-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/actiondeleteapp-get-openapi.md
-- name: AWS OpsWorks API Describe Apps
-  x-api-slug: aws-opsworks-api
-  description: Requests a description of a specified set of apps.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png
-  humanURL: https://aws.amazon.com/opsworks/
-  baseURL: ://///?Action=DescribeApps
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Orchestration, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Profiles, Relative Data, Service API
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/actiondescribeapps-get-openapi.md
-- name: AWS OpsWorks API Update App
+- name: AWS OpsWorks API
   x-api-slug: aws-opsworks-api
-  description: Updates a specified app.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png
   humanURL: https://aws.amazon.com/opsworks/
-  baseURL: ://///?Action=UpdateApp
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Orchestration, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Profiles, Relative Data, Service API
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/actionupdateapp-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/actiondescribeapps-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/actiondescribeapps-get-openapi.md
 - name: AWS OpsWorks API
   x-api-slug: aws-opsworks-api
   description: AWS OpsWorks is a configuration management service that uses Chef,
@@ -72,6 +54,10 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://aws.marketplace.metering.service.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://aws.opsworks.stack.network
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html
 - type: x-documentation

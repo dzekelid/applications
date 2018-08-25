@@ -14,75 +14,163 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Applications
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/apis.md
 specificationVersion: "0.14"
 apis:
-- name: AWS Elastic Beanstalk API Create Application
+- name: AWS Elastic Beanstalk API
   x-api-slug: aws-elastic-beanstalk-api
-  description: |-
-    Creates an application that has one configuration template named default
-          and no application versions.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
   humanURL: https://aws.amazon.com/elasticbeanstalk/
-  baseURL: ://///?Action=CreateApplication
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actioncreateapplication-get-openapi.md
-- name: AWS Elastic Beanstalk API Create Application Version
+- name: AWS Elastic Beanstalk API
   x-api-slug: aws-elastic-beanstalk-api
-  description: Creates an application version for the specified application.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
   humanURL: https://aws.amazon.com/elasticbeanstalk/
-  baseURL: ://///?Action=CreateApplicationVersion
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actioncreateapplication-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actioncreateapplicationversion-get-openapi.md
-- name: AWS Elastic Beanstalk API Delete Application
+- name: AWS Elastic Beanstalk API
   x-api-slug: aws-elastic-beanstalk-api
-  description: |-
-    Deletes the specified application along with all associated versions and
-          configurations.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
   humanURL: https://aws.amazon.com/elasticbeanstalk/
-  baseURL: ://///?Action=DeleteApplication
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actioncreateapplicationversion-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actiondeleteapplication-get-openapi.md
-- name: AWS Elastic Beanstalk API Describe Applications
+- name: AWS Elastic Beanstalk API
   x-api-slug: aws-elastic-beanstalk-api
-  description: Returns the descriptions of existing applications.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
   humanURL: https://aws.amazon.com/elasticbeanstalk/
-  baseURL: ://///?Action=DescribeApplications
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actioncreateapplicationversion-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actiondeleteapplication-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actiondescribeapplications-get-openapi.md
-- name: AWS Elastic Beanstalk API Update Application
+- name: AWS Elastic Beanstalk API
   x-api-slug: aws-elastic-beanstalk-api
-  description: Updates the specified application to have the specified properties.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
   humanURL: https://aws.amazon.com/elasticbeanstalk/
-  baseURL: ://///?Action=UpdateApplication
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actioncreateapplicationversion-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actiondeleteapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actiondescribeapplications-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actionupdateapplication-get-openapi.md
-- name: AWS Elastic Beanstalk API Update Application Version
+- name: AWS Elastic Beanstalk API
   x-api-slug: aws-elastic-beanstalk-api
-  description: Updates the specified application version to have the specified properties.
+  description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
   humanURL: https://aws.amazon.com/elasticbeanstalk/
-  baseURL: ://///?Action=UpdateApplicationVersion
-  tags: Applications
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
   properties:
   - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actioncreateapplicationversion-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actiondeleteapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actiondescribeapplications-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actionupdateapplication-get-openapi.md
+  - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actionupdateapplicationversion-get-openapi.md
+- name: AWS Elastic Beanstalk API
+  x-api-slug: aws-elastic-beanstalk-api
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actioncreateapplicationversion-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actiondeleteapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actiondescribeapplications-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actionupdateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actionupdateapplicationversion-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actionrestartappserver-get-openapi.md
+- name: AWS Elastic Beanstalk API
+  x-api-slug: aws-elastic-beanstalk-api
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actioncreateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actioncreateapplicationversion-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actiondeleteapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actiondescribeapplications-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actionupdateapplication-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actionupdateapplicationversion-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actionrestartappserver-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/actionrestartappserver-get-openapi.md
 - name: AWS Elastic Beanstalk API
   x-api-slug: aws-elastic-beanstalk-api
   description: AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling
@@ -102,6 +190,10 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://aws.ec2.systems.manager.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://aws.elastic.beanstalk.stack.network
 - type: x-change-log
   url: http://aws.amazon.com/releasenotes/AWS-Elastic-Beanstalk
 - type: x-command-line-interface
