@@ -34,9 +34,9 @@ apis:
     API
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2permissionscheme-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationproperties-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2permissionscheme-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationproperties-get-openapi.md
 - name: Jira Cloud API
   x-api-slug: jira-cloud-api
   description: jira-cloud-rest-api-documentation
@@ -48,11 +48,61 @@ apis:
     API
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2permissionscheme-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationproperties-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2permissionscheme-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationproperties-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationpropertiesid-put-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2permissionscheme-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationpropertiesid-put-openapi.md
+- name: Jira Cloud API
+  x-api-slug: jira-cloud-api
+  description: jira-cloud-rest-api-documentation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationproperties-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationproperties-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationpropertiesid-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationpropertiesid-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationrole-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationrole-get-openapi.md
+- name: Jira Cloud API
+  x-api-slug: jira-cloud-api
+  description: jira-cloud-rest-api-documentation
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
+  humanURL: http://atlassian.com/
+  baseURL: https:////
+  tags: Coding, Programming, Wiki, Issues, Code Issues, Stack Network, SaaS, Technology,
+    Enterprise, API Provider, API Service Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationproperties-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationproperties-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationpropertiesid-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationpropertiesid-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationrole-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationrole-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationrolekey-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/api2applicationrolekey-get-openapi.md
 - name: Jira Cloud API
   x-api-slug: jira-cloud-api
   description: Millions of users globally rely on Atlassian products every day for

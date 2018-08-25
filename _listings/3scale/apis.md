@@ -25,6 +25,2094 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/openapi.md
 - name: 3Scale Account Management API
   x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idpricing-rules-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idpricing-rules-xml-get-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idpricing-rules-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idpricing-rules-xml-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plans-xml-get-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idpricing-rules-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idpricing-rules-xml-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plans-xml-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plans-xml-post-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idpricing-rules-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idpricing-rules-xml-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plans-xml-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plans-xml-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plansid-xml-delete-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idpricing-rules-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idpricing-rules-xml-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plans-xml-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plans-xml-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plansid-xml-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plansid-xml-get-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idpricing-rules-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idpricing-rules-xml-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plans-xml-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plans-xml-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plansid-xml-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plansid-xml-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plansid-xml-put-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
+  description: the-api-for-managing-3scale-accounts-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  humanURL: http://3scale.net
+  baseURL: https://su1.3scale.net//
+  tags: Management, Management, My API Stack, Imports, Stack Network, SaaS, Technology,
+    Enterprise, API Service Provider, Profiles, Portals
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplications-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeys-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idkeyskey-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filters-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsapplication-idreferrer-filtersid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsid-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidaccept-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidchange-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidcustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsiddecustomize-plan-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidresume-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiaccountsaccount-idapplicationsidsuspend-xml-put-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplications-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplicationsfind-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plans-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeatures-xml-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idfeaturesid-xml-delete-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idlimits-xml-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idpricing-rules-xml-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiapplication-plansapplication-plan-idpricing-rules-xml-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plans-xml-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plans-xml-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plansid-xml-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plansid-xml-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plansid-xml-put-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/adminapiservicesservice-idapplication-plansiddefault-xml-put-openapi.md
+- name: 3Scale Account Management API
+  x-api-slug: 3scale-account-management-api
   description: 3scales API Management platform gives you the tools you need to take
     control of your API. Trusted by more customers than any other vendor.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
@@ -44,9 +2132,9 @@ apis:
     Enterprise, API Service Provider, Profiles, Portals
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/statsservicesservice-idtop-applications-format-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/statsapplicationsapplication-idusage-format-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/statsservicesservice-idtop-applications-format-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/statsapplicationsapplication-idusage-format-get-openapi.md
 - name: 3Scale Analytics API
   x-api-slug: 3scale-analytics-api
   description: 3scales API Management platform gives you the tools you need to take

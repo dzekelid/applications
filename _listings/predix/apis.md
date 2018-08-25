@@ -14,6 +14,76 @@ specificationVersion: "0.14"
 apis:
 - name: Predix Access Control
   x-api-slug: predix-access-control
+  description: access-control-services-acs--
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
+  humanURL: https://www.predix.io
+  baseURL: https://predix-acs.run.aws-usw02-pr.ice.predix.io//
+  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/v1resourceresourceidentifier-get-openapi.md
+- name: Predix Access Control
+  x-api-slug: predix-access-control
+  description: access-control-services-acs--
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
+  humanURL: https://www.predix.io
+  baseURL: https://predix-acs.run.aws-usw02-pr.ice.predix.io//
+  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/v1resourceresourceidentifier-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/v1resourceresourceidentifier-put-openapi.md
+- name: Predix Access Control
+  x-api-slug: predix-access-control
+  description: access-control-services-acs--
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
+  humanURL: https://www.predix.io
+  baseURL: https://predix-acs.run.aws-usw02-pr.ice.predix.io//
+  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/v1resourceresourceidentifier-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/v1resourceresourceidentifier-put-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/v1resourceresourceidentifier-delete-openapi.md
+- name: Predix Access Control
+  x-api-slug: predix-access-control
+  description: access-control-services-acs--
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
+  humanURL: https://www.predix.io
+  baseURL: https://predix-acs.run.aws-usw02-pr.ice.predix.io//
+  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/v1resourceresourceidentifier-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/v1resourceresourceidentifier-put-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/v1resourceresourceidentifier-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/v1subjectsubjectidentifier-get-openapi.md
+- name: Predix Access Control
+  x-api-slug: predix-access-control
+  description: access-control-services-acs--
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
+  humanURL: https://www.predix.io
+  baseURL: https://predix-acs.run.aws-usw02-pr.ice.predix.io//
+  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/v1resourceresourceidentifier-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/v1resourceresourceidentifier-put-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/v1resourceresourceidentifier-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/v1subjectsubjectidentifier-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/v1subjectsubjectidentifier-delete-openapi.md
+- name: Predix Access Control
+  x-api-slug: predix-access-control
   description: Predix (IoT PaaS) helps you develop apps that connect people with industrial
     machines through analytics and data for better business outcomes.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
@@ -56,216 +126,6 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/openapi.md
-- name: Predix AppHub ARCS
-  x-api-slug: predix-apphub-arcs
-  description: bapplication-registry-and-configurationb
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
-  humanURL: https://www.predix.io
-  baseURL: https://predix-apphub-arcs-prod.run.aws-usw02-pr.ice.predix.io//api
-  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-- name: Predix AppHub ARCS
-  x-api-slug: predix-apphub-arcs
-  description: bapplication-registry-and-configurationb
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
-  humanURL: https://www.predix.io
-  baseURL: https://predix-apphub-arcs-prod.run.aws-usw02-pr.ice.predix.io//api
-  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-post-openapi.md
-- name: Predix AppHub ARCS
-  x-api-slug: predix-apphub-arcs
-  description: bapplication-registry-and-configurationb
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
-  humanURL: https://www.predix.io
-  baseURL: https://predix-apphub-arcs-prod.run.aws-usw02-pr.ice.predix.io//api
-  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-put-openapi.md
-- name: Predix AppHub ARCS
-  x-api-slug: predix-apphub-arcs
-  description: bapplication-registry-and-configurationb
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
-  humanURL: https://www.predix.io
-  baseURL: https://predix-apphub-arcs-prod.run.aws-usw02-pr.ice.predix.io//api
-  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-put-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-get-openapi.md
-- name: Predix AppHub ARCS
-  x-api-slug: predix-apphub-arcs
-  description: bapplication-registry-and-configurationb
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
-  humanURL: https://www.predix.io
-  baseURL: https://predix-apphub-arcs-prod.run.aws-usw02-pr.ice.predix.io//api
-  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-put-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-delete-openapi.md
-- name: Predix AppHub ARCS
-  x-api-slug: predix-apphub-arcs
-  description: bapplication-registry-and-configurationb
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
-  humanURL: https://www.predix.io
-  baseURL: https://predix-apphub-arcs-prod.run.aws-usw02-pr.ice.predix.io//api
-  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-put-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-- name: Predix AppHub ARCS
-  x-api-slug: predix-apphub-arcs
-  description: bapplication-registry-and-configurationb
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
-  humanURL: https://www.predix.io
-  baseURL: https://predix-apphub-arcs-prod.run.aws-usw02-pr.ice.predix.io//api
-  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-put-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-post-openapi.md
-- name: Predix AppHub ARCS
-  x-api-slug: predix-apphub-arcs
-  description: bapplication-registry-and-configurationb
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
-  humanURL: https://www.predix.io
-  baseURL: https://predix-apphub-arcs-prod.run.aws-usw02-pr.ice.predix.io//api
-  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-put-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-put-openapi.md
-- name: Predix AppHub ARCS
-  x-api-slug: predix-apphub-arcs
-  description: bapplication-registry-and-configurationb
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
-  humanURL: https://www.predix.io
-  baseURL: https://predix-apphub-arcs-prod.run.aws-usw02-pr.ice.predix.io//api
-  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-put-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-put-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-get-openapi.md
-- name: Predix AppHub ARCS
-  x-api-slug: predix-apphub-arcs
-  description: bapplication-registry-and-configurationb
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
-  humanURL: https://www.predix.io
-  baseURL: https://predix-apphub-arcs-prod.run.aws-usw02-pr.ice.predix.io//api
-  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-put-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-delete-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apps-put-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/appsuuid-delete-openapi.md
 - name: Predix AppHub ARCS
   x-api-slug: predix-apphub-arcs
   description: Predix (IoT PaaS) helps you develop apps that connect people with industrial

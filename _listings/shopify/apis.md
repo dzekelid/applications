@@ -22,10 +22,8 @@ apis:
   baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
   tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/shopify/adminfulfillment-services-json-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/shopify/adminfulfillment-services-json-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/shopify/adminapplication-charges-json-post-openapi.md
 - name: Shopify
   x-api-slug: shopify
   description: todo-add-description
@@ -34,12 +32,10 @@ apis:
   baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
   tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/shopify/adminfulfillment-services-json-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/shopify/adminfulfillment-services-json-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/shopify/adminapplication-charges-json-post-openapi.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/shopify/adminfulfillment-services-json-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/shopify/adminapplication-charges1-json-get-openapi.md
 - name: Shopify
   x-api-slug: shopify
   description: Shopify is a commerce platform that allows anyone to easily sell online
