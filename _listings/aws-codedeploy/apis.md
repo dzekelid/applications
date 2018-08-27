@@ -12,11 +12,127 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Applications
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS CodeDeploy API - Batch Get Applications
+  x-api-slug: actionbatchgetapplications-get
+  description: Gets information about one or more applications.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
+  humanURL: https://aws.amazon.com/codedeploy/
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionbatchgetapplications-get-openapi.md
+- name: AWS CodeDeploy API - Create Application
+  x-api-slug: actioncreateapplication-get
+  description: Creates an application.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
+  humanURL: https://aws.amazon.com/codedeploy/
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actioncreateapplication-get-openapi.md
+- name: AWS CodeDeploy API - Delete Application
+  x-api-slug: actiondeleteapplication-get
+  description: Deletes an application.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
+  humanURL: https://aws.amazon.com/codedeploy/
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actiondeleteapplication-get-openapi.md
+- name: AWS CodeDeploy API - Get Application
+  x-api-slug: actiongetapplication-get
+  description: Gets information about an application.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
+  humanURL: https://aws.amazon.com/codedeploy/
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actiongetapplication-get-openapi.md
+- name: AWS CodeDeploy API - List Applications
+  x-api-slug: actionlistapplications-get
+  description: |-
+    Lists the applications registered with the applicable IAM user or AWS
+                account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
+  humanURL: https://aws.amazon.com/codedeploy/
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionlistapplications-get-openapi.md
+- name: AWS CodeDeploy API - Update Application
+  x-api-slug: actionupdateapplication-get
+  description: Changes the name of an application.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
+  humanURL: https://aws.amazon.com/codedeploy/
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionupdateapplication-get-openapi.md
+- name: AWS CodeDeploy API - Batch Get Applications
+  x-api-slug: actionbatchgetapplications-get
+  description: Gets information about one or more applications.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
+  humanURL: https://aws.amazon.com/codedeploy/
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionbatchgetapplications-get-openapi.md
+- name: AWS CodeDeploy API - Batch Get Applications
+  x-api-slug: actionbatchgetapplications-get
+  description: Gets information about one or more applications.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
+  humanURL: https://aws.amazon.com/codedeploy/
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionbatchgetapplications-get-openapi.md
+- name: AWS CodeDeploy API - List Applications
+  x-api-slug: actionlistapplications-get
+  description: |-
+    Lists the applications registered with the applicable IAM user or AWS
+                account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
+  humanURL: https://aws.amazon.com/codedeploy/
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionlistapplications-get-openapi.md
+- name: AWS CodeDeploy API - List Applications
+  x-api-slug: actionlistapplications-get
+  description: |-
+    Lists the applications registered with the applicable IAM user or AWS
+                account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
+  humanURL: https://aws.amazon.com/codedeploy/
+  baseURL: :///
+  tags: Amazon Web Services, SDK, Orchestration, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/actionlistapplications-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.codecommit.api.gallery.streamdata.io

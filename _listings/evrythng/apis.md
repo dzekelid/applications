@@ -8,11 +8,41 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28871-evry
 x-kinRank: "7"
 x-alexaRank: "686135"
 tags: Applications
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/evrythng/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: EVRYTHNG - /applications/ (O)
+  x-api-slug: projectsproject-idapplications-post
+  description: OPERATOR creates a new application.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28871-evrythng-com.jpg
+  humanURL: https://evrythng.com
+  baseURL: https://example.com//
+  tags: SaaS, Enterprise, Internet of Things, Profiles, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/evrythng/projectsproject-idapplications-post-openapi.md
+- name: EVRYTHNG - /applications/{id} (O)
+  x-api-slug: projectsproject-idapplicationsapp-id-get
+  description: OPERATOR reads a specific application.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28871-evrythng-com.jpg
+  humanURL: https://evrythng.com
+  baseURL: https://example.com//
+  tags: SaaS, Enterprise, Internet of Things, Profiles, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/evrythng/projectsproject-idapplicationsapp-id-get-openapi.md
+- name: EVRYTHNG - /applications/{id} (O)
+  x-api-slug: projectsproject-idapplicationsapp-id-get
+  description: OPERATOR reads a specific application.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28871-evrythng-com.jpg
+  humanURL: https://evrythng.com
+  baseURL: https://example.com//
+  tags: SaaS, Enterprise, Internet of Things, Profiles, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/evrythng/projectsproject-idapplicationsapp-id-get-openapi.md
 x-common:
 - type: x-deprecation
   url: https://developers.evrythng.com/docs/deprecation

@@ -15,11 +15,53 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Applications
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS Simple Notification Service API - List Platform Applications
+  x-api-slug: actionlistplatformapplications-get
+  description: |-
+    Lists the platform application objects for the supported push notification services, such as
+          APNS and GCM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
+  humanURL: https://aws.amazon.com/sns/
+  baseURL: :///
+  tags: Amazon Web Services, Notifications, SMS, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Messages, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/actionlistplatformapplications-get-openapi.md
+- name: AWS Simple Notification Service API - List Platform Applications
+  x-api-slug: actionlistplatformapplications-get
+  description: |-
+    Lists the platform application objects for the supported push notification services, such as
+          APNS and GCM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
+  humanURL: https://aws.amazon.com/sns/
+  baseURL: :///
+  tags: Amazon Web Services, Notifications, SMS, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Messages, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/actionlistplatformapplications-get-openapi.md
+- name: AWS Simple Notification Service API - List Platform Applications
+  x-api-slug: actionlistplatformapplications-get
+  description: |-
+    Lists the platform application objects for the supported push notification services, such as
+          APNS and GCM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
+  humanURL: https://aws.amazon.com/sns/
+  baseURL: :///
+  tags: Amazon Web Services, Notifications, SMS, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Messages, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/actionlistplatformapplications-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.simple.email.service.api.gallery.streamdata.io

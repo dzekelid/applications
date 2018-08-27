@@ -10,11 +10,65 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "0"
 tags: Applications
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-app-engine/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Google App Engine Admin - Create App
+  x-api-slug: v1apps-post
+  description: 'Creates an App Engine application for a Google Cloud Platform project.
+    Required fields: id - The ID of the target Cloud Platform project. location -
+    The region (https://cloud.google.com/appengine/docs/locations) where you want
+    the App Engine application located.For more information about App Engine applications,
+    see Managing Projects, Applications, and Billing (https://cloud.google.com/appengine/docs/python/console/).'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-app-engine-icon.png
+  humanURL: https://cloud.google.com/appengine/
+  baseURL: ://appengine.googleapis.com//
+  tags: Google APIs, Compute, Cloud, Stack Network, API Service Provider, API Provider,
+    Deployments, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-app-engine/v1apps-post-openapi.md
+- name: Google App Engine Admin - Get App
+  x-api-slug: v1appsappsid-get
+  description: Gets information about an application.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-app-engine-icon.png
+  humanURL: https://cloud.google.com/appengine/
+  baseURL: ://appengine.googleapis.com//
+  tags: Google APIs, Compute, Cloud, Stack Network, API Service Provider, API Provider,
+    Deployments, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-app-engine/v1appsappsid-get-openapi.md
+- name: Google App Engine Admin - Update App
+  x-api-slug: v1appsappsid-patch
+  description: 'Updates the specified Application resource. You can update the following
+    fields: auth_domain - Google authentication domain for controlling user access
+    to the application. default_cookie_expiration - Cookie expiration policy for the
+    application.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-app-engine-icon.png
+  humanURL: https://cloud.google.com/appengine/
+  baseURL: ://appengine.googleapis.com//
+  tags: Google APIs, Compute, Cloud, Stack Network, API Service Provider, API Provider,
+    Deployments, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-app-engine/v1appsappsid-patch-openapi.md
+- name: Google App Engine Admin - Repair App
+  x-api-slug: v1appsappsidrepair-post
+  description: Recreates the required App Engine features for the specified App Engine
+    application, for example a Cloud Storage bucket or App Engine service account.
+    Use this method if you receive an error message about a missing feature, for example,
+    Error retrieving the App Engine service account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-app-engine-icon.png
+  humanURL: https://cloud.google.com/appengine/
+  baseURL: ://appengine.googleapis.com//
+  tags: Google APIs, Compute, Cloud, Stack Network, API Service Provider, API Provider,
+    Deployments, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-app-engine/v1appsappsidrepair-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://google.api.discovery.service.api.gallery.streamdata.io

@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Bitly
 x-complete: 1
@@ -15,4 +14,20 @@ produces:
 - application/json
 consumes:
 - application/json
----
+paths:
+  /v3/oauth/app:
+    get:
+      summary: OAuth App
+      description: Return information about an OAuth app.
+      operationId: oauthApp
+      x-api-path-slug: v3oauthapp-get
+      parameters:
+      - in: query
+        name: client_id
+        description: the client ID of the app
+      responses:
+        200:
+          description: OK
+      tags:
+      - OAuth
+      - App

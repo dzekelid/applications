@@ -7,11 +7,56 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-acti
 x-kinRank: "7"
 x-alexaRank: "637591"
 tags: Applications
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/actility/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: ThingPark DX Core API - Applications retrieval
+  x-api-slug: applications-get
+  description: Retrieves a list of applications existing within authorized scopes.
+    In case of an operator or a vendor scope, it retrieves all applications available.
+    In case of a subscriber scope, it retrieves all applications within subscribed
+    offers. In case of a supplier scope, it retrieves all applications provided by
+    that supplier.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//core/v141/api
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/actility/applications-get-openapi.md
+- name: ThingPark DX Core API - Applications retrieval
+  x-api-slug: applications-get
+  description: Retrieves a list of applications existing within authorized scopes.
+    In case of an operator or a vendor scope, it retrieves all applications available.
+    In case of a subscriber scope, it retrieves all applications within subscribed
+    offers. In case of a supplier scope, it retrieves all applications provided by
+    that supplier.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//core/v141/api
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/actility/applications-get-openapi.md
+- name: ThingPark DX Core API - Applications retrieval
+  x-api-slug: applications-get
+  description: Retrieves a list of applications existing within authorized scopes.
+    In case of an operator or a vendor scope, it retrieves all applications available.
+    In case of a subscriber scope, it retrieves all applications within subscribed
+    offers. In case of a supplier scope, it retrieves all applications provided by
+    that supplier.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
+  humanURL: https://www.actility.com
+  baseURL: https://dx-api.thingpark.com//core/v141/api
+  tags: Technology, SaaS, Enterprise, ISP, Telecommunications, Internet of Things,
+    API Provider, Parking, Sensors, Energy, Industrial, Profiles, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/actility/applications-get-openapi.md
 x-common:
 - type: x-blog-rss
   url: https://www.actility.com/blog/feed/

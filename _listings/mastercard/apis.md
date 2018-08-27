@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/366-master
 x-kinRank: "9"
 x-alexaRank: "48280"
 tags: Applications
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mastercard/apis.md
 specificationVersion: "0.14"
 apis:
@@ -31,6 +31,26 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mastercard/appid-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mastercard/appid-get-openapi.md
+- name: MasterCard - Add App
+  x-api-slug: appid-post
+  description: |-
+    When you are permissioned onto the network, you will be issued one or
+    more `id`s to use. You may then send or update configurations of the
+    transaction message types you wish to use. These are specified using
+    Protocol Buffer version 3 files as specified
+    [here](https://developers.google.com/protocol-buffers/docs/proto3)
+    This specification may be sent either as the canonical JSON transform
+    or the native `.proto` file encoded as hex, base58 or base64.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/366-mastercard.jpg
+  humanURL: https://developer.mastercard.com/
+  baseURL: https://eas5stl0.mastercard.int:13046//z0/core/v1
+  tags: Shopping, Commerce, Hosting, Finance, Merchant, Merchants, Coupons, Shopping,
+    Offers, Payments, Finance, Target, Stack Network, Stack, Blockchain, Blockchains,
+    Financial Services, Technology, API Provider, Profiles, Payments, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mastercard/appid-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://mapquest.api.gallery.streamdata.io

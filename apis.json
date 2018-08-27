@@ -1,32 +1,1254 @@
 {
-	"name": "Dezrez",
-	"x-slug": "dezrez",
-	"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
-	"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-	"x-kinRank": "7",
-	"x-alexaRank": "385559",
-	"tags": "Applications",
-	"created": "2018-08-25",
-	"modified": "2018-08-25",
-	"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/applications\/master\/_listings\/dezrez\/apis.md",
+	"name": "Streadata.io API Gallery - Applications",
+	"description": "This is a repository of applications APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/applications.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://applications.streamdata.gallery/apis.json",
 	"specificationVersion": "0.14",
 	"apis": [
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "3scale",
+			"x-api-slug": "3scale",
+			"description": "3scales API Management platform gives you the tools you need to take control of your API. Trusted by more customers than any other vendor.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg",
+			"humanURL": "http://3scale.net",
+			"baseURL": "https://su1.3scale.net//",
+			"tags": "Applications",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/applications\/master\/_listings\/dezrez\/apilocaleculture-get-postman.md"
-				},
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Urban Airship",
+			"x-api-slug": "urban-airship",
+			"description": "A market-leading mobile app engagement, mobile analytics, mobile data integration and mobile wallet marketing solution.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/75-urban-airship.jpg",
+			"humanURL": "http://urbanairship.com/",
+			"baseURL": "https://go.urbanairship.com//api/",
+			"tags": "Applications",
+			"properties": [
 				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/applications\/master\/_listings\/dezrez\/apilocaleculture-get-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/urban-airship/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Exicon",
+			"x-api-slug": "exicon",
+			"description": "Exicon brings your digital idea to life. From finding a developer, mobile   strategy, and design to implementation, analytics and management. We have   years of experience in various industries and knowledge of the latest   trends. Create mobile app...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/91-exicon.jpg",
+			"humanURL": "http://www.exiconglobal.com",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/exicon/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Twilio",
+			"x-api-slug": "twilio",
+			"description": "Cloud communications platform for building SMS, Voice & Messaging applications on an API built for global scale. Get started with a free trial.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg",
+			"humanURL": "http://www.twilio.com",
+			"baseURL": "https://api.twilio.com//2010-04-01/",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Clickatell",
+			"x-api-slug": "clickatell",
+			"description": "Clickatell is a leading company in Global Mobile Messaging. You can reach 1000+ global networks with 1 API using Clickatells Bulk SMS Gateway.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/169-clickatell.jpg",
+			"humanURL": "http://clickatell.com",
+			"baseURL": "http://api.clickatell.com/http/",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/clickatell/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Diffbot",
+			"x-api-slug": "diffbot",
+			"description": "Never write another web scraper. Diffbot automates web data extraction from any website using AI, computer vision, &amp; machine learning.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/181-diffbot.jpg",
+			"humanURL": "http://www.diffbot.com/our-apis/follow/",
+			"baseURL": "https:////",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/diffbot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Facebook",
+			"x-api-slug": "facebook",
+			"description": "Create an account or log into Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/196-facebook.jpg",
+			"humanURL": "http:///business",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/facebook/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Heroku",
+			"x-api-slug": "heroku",
+			"description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg",
+			"humanURL": "http://heroku.com",
+			"baseURL": "https://api.heroku.com//",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Stripe",
+			"x-api-slug": "stripe",
+			"description": "Online payment processing for internet businesses. Stripe is a suite of payment APIs that powers commerce for online businesses of all sizes, including fraud prevention, and subscription management. Use Stripes payment platform to accept and process p...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg",
+			"humanURL": "https://stripe.com/",
+			"baseURL": "https://api.stripe.com/v1/",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/stripe/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Tropo",
+			"x-api-slug": "tropo",
+			"description": "Hosted Voice and SMS API",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/264-tropo.jpg",
+			"humanURL": "https://www.tropo.com/",
+			"baseURL": "https://api.tropo.com//v1/",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/tropo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "46elks",
+			"x-api-slug": "46elks",
+			"description": "Adding SMS and Voice to your application or service should be easy. Phone calls, SMS & MMS in one easy API. For developers, built by developers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/289-46elks.jpg",
+			"humanURL": "http://46elks.com/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/46elks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AppsGeyser",
+			"x-api-slug": "appsgeyser",
+			"description": "Convert any web content into an Android App using AppsGeyser - The Free Android App Maker. Build Your Own App for Free and Make Money.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/352-appsgeyser.jpg",
+			"humanURL": "http://www.appsgeyser.com/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/appsgeyser/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MasterCard",
+			"x-api-slug": "mastercard",
+			"description": "Mastercard is a leading global payments & technology company that connects consumers, businesses, merchants, issuers & governments around the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/366-mastercard.jpg",
+			"humanURL": "https://developer.mastercard.com/",
+			"baseURL": "https://eas5stl0.mastercard.int:13046//z0/core/v1",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mastercard/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Server Density",
+			"x-api-slug": "server-density",
+			"description": "SaaS infrastructure monitoring. Dashboards, graphs and alerts to help you improve performance and maintain uptime. Organizer of @humanops",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/475-server-density.jpg",
+			"humanURL": "https://www.serverdensity.com",
+			"baseURL": "://api.serverdensity.io./",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/server-density/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Site24x7",
+			"x-api-slug": "site24x7",
+			"description": "Site24x7 offers both free & paid website monitoring services. Monitor websites remotely and receive instant email/sms alerts if your website becomes unavailable. View uptime & performance graphs of your website monitors.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/481-site24x7.jpg",
+			"humanURL": "https://www.site24x7.com/",
+			"baseURL": "://www.site24x7.com./",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/site24x7/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SugarSync",
+			"x-api-slug": "sugarsync",
+			"description": "SugarSync is a cloud file sharing, file sync and online backup service that is simple, powerful and easy to use. Unlike Dropbox, SugarSync enables you to back up your existing folder structure. Try it for FREE for 30 days and get started today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/488-sugarsync-.jpg",
+			"humanURL": "http://sugarsync.com",
+			"baseURL": "https://api.sugarsync.com//",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/sugarsync/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Loggly",
+			"x-api-slug": "loggly",
+			"description": "Log Analysis / Log Management by Loggly: the worlds most popular log analysis & monitoring in the cloud. Free trial. See why ??? of the Fortune 500 use us!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/611-loggly,-inc-.jpg",
+			"humanURL": "http://loggly.com",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/loggly/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Apsalar",
+			"x-api-slug": "apsalar",
+			"description": "Apsalar provides mobile app attribution and audience building services that optimize marketing effectiveness and drive maximum ROI.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/690-apsalar.jpg",
+			"humanURL": "http://apsalar.com/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/apsalar/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Atlassian",
+			"x-api-slug": "atlassian",
+			"description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg",
+			"humanURL": "http://atlassian.com/",
+			"baseURL": "https:////",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BMC Software",
+			"x-api-slug": "bmc-software",
+			"description": "Transform your digital enterprise with BMC IT solutions. From mainframe to cloud to mobile, we???ll help you drive innovation and industrial efficiency.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/713-bmc-software.jpg",
+			"humanURL": "http://www.bmc.com",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/bmc-software/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pidoco",
+			"x-api-slug": "pidoco",
+			"description": "Create clickable wireframes for websites and mobile apps with our online wireframing tool. Collaboration and exports for easy UI design and UX prototyping.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/893-pidoco.jpg",
+			"humanURL": "https://pidoco.com",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/pidoco/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Progress Rollbase",
+			"x-api-slug": "progress-rollbase",
+			"description": "Progress offers the leading platform for developing and deploying mission-critical, cognitive-first business applications for competitive advantage.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/914-progress-rollbase.jpg",
+			"humanURL": "https://www.rollbase.com/integration.shtml",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/progress-rollbase/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Contentful",
+			"x-api-slug": "contentful",
+			"description": "Contentful gives you an API-first, cloud-based platform to power your sites and apps, allowing you to create first-class user experiences. Stop burying your content in a CMS, empower it with a content infrastructure.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/945-contentfulapp.jpg",
+			"humanURL": "https://www.contentful.com/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/contentful/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Deskmetrics",
+			"x-api-slug": "deskmetrics",
+			"description": "Deskmetrics Analytics allows software companies and developers to understand how their application is being used.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1004-deskmetrics.jpg",
+			"humanURL": "https://deskmetrics.com",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/deskmetrics/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TelAPI",
+			"x-api-slug": "telapi",
+			"description": "Zang offers business communications tools & voice app development platforms that bring innovation and ease to unified communications & collaboration solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1176-telapi.jpg",
+			"humanURL": "http://www.telapi.com",
+			"baseURL": "http://api.telapi.com/v2/",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/telapi/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TestFlight",
+			"x-api-slug": "testflight",
+			"description": "TestFlight Beta Testing",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1178-testflight.jpg",
+			"humanURL": "https://testflightapp.com/api/doc/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/testflight/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Trigger Forge",
+			"x-api-slug": "trigger-forge",
+			"description": "Its the simplest way for web developers to create amazing mobile apps using the best of HTML5 and native. Check out what our customers have built:  https://trigger.io/examples",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1186-trigger-forge.jpg",
+			"humanURL": "http://docs.trigger.io/en/v1.2/api/index.html",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/trigger-forge/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "WorldMate",
+			"x-api-slug": "worldmate",
+			"description": "Join over 10 million travelers who rely on WorldMate to plan, book, and manage every aspect of their trips.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1221-worldmate.jpg",
+			"humanURL": "https://worldmate.com",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/worldmate/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TapCrowd",
+			"x-api-slug": "tapcrowd",
+			"description": "Mobile Event App Solution. Create, manage & launch great event apps that engage your audience. Apps for Corporate events, conference apps & associations.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1235-tapcrowd.jpg",
+			"humanURL": "http://tapcrowd.com/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/tapcrowd/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Totango",
+			"x-api-slug": "totango",
+			"description": "Totangos customer success software aligns your company around your customers to drive adoption, reduce churn, increase retention and expansion.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1368-totango.jpg",
+			"humanURL": "http://dev.totango.com/api-specification/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/totango/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "DeployGate",
+			"x-api-slug": "deploygate",
+			"description": "Share your apps from day one - DeployGate is the fastest and easiest way to share iOS/Android apps in development to your team members and beta testers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1404-deploygate.jpg",
+			"humanURL": "https://deploygate.com/docs/api",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/deploygate/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sift Science",
+			"x-api-slug": "sift-science",
+			"description": "Block fraud, provide a better customer experience, and grow your revenue through the machine learning Sift Science Trust Platform. Fast, accurate, and reliable data. Talk to a fraud expert today.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1475-sift-science.jpg",
+			"humanURL": "https://siftscience.com/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/sift-science/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bitly",
+			"x-api-slug": "bitly",
+			"description": "Get the most out of your social and online marketing efforts. Own, understand and activate your best audience through the power of the link with Bitly Enterprise.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1503-bitly.jpg",
+			"humanURL": "http://bitly.com",
+			"baseURL": "https://api-ssl.bitly.com//v3",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/bitly/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Verivo Software",
+			"x-api-slug": "verivo-software",
+			"description": "Verivos enterprise mobility platform enables companies to centrally build, deploy, manage and update their own mobile applications  rapidly and securely.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1852-verivo-software.jpg",
+			"humanURL": "http://www.verivo.com/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/verivo-software/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OpenLabel",
+			"x-api-slug": "openlabel",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1897_logo.png",
+			"humanURL": "http://developer.openlabels.net/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/openlabel/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pixate",
+			"x-api-slug": "pixate",
+			"description": "Design complex interactions, without the complexity.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1898-pixate.jpg",
+			"humanURL": "http://www.pixate.com",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/pixate/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "StreamIn",
+			"x-api-slug": "streamin",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1902_logo.jpg",
+			"humanURL": "http://streamin.io",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/streamin/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SwipeIdentity",
+			"x-api-slug": "swipeidentity",
+			"description": "Kumpulan berita dan informasi terbaru terkait perkembangan teknologi di Indonesia maupun luar negeri. Swift Identity selalu berusaha menampilkan artikel yang informatif.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1905-swipeidentity.jpg",
+			"humanURL": "http://developer.swiftidentity.com/documentation",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/swipeidentity/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Okta",
+			"x-api-slug": "okta",
+			"description": "Provide secure identity management and single sign-on to any application, whether in the cloud, on-premises or on a mobile device for your employees, partners and customers with Okta.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1937-okta.jpg",
+			"humanURL": "https://www.okta.com",
+			"baseURL": "https://example.com//api/v1",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/okta/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Appsee",
+			"x-api-slug": "appsee",
+			"description": "Appsee is a mobile app analytics platform that offers you powerful, qualitative analytics tools that enable you to track and optimize the UX in your app.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2002-appsee.jpg",
+			"humanURL": "http://www.appsee.com/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/appsee/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CardFlight",
+			"x-api-slug": "cardflight",
+			"description": "CardFlight empowers app developers to easily take in-person (card present) payments within their own iOS and Android apps. CardFlight&rsquo;s open platform connects mobile app developers with payment processors, focusing on the 90+% of credit card payments that happen in real life. Developers use CardFlight&rsquo;s encrypted mag stripe reader and SDK/API so that they can easily and securely accept card present payments in their apps, with support for virtually any payment processor or merchant account. Our clients retain full control of their integrated app experience without dealing with the typical complexity of payments integrations.",
+			"image": "",
+			"humanURL": "https://getcardflight.com/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/cardflight/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AppNeta",
+			"x-api-slug": "appneta",
+			"description": "AppNetas award-winning suite of network monitoring tools allow unparalleled SaaS-based application end-user performance monitoring for 100% delivery confidence. Request a free demo!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11161-appneta.jpg",
+			"humanURL": "http://www.appneta.com/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/appneta/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+			"x-api-slug": "bureau-of-alcohol-tobacco-firearms-and-explosives",
+			"description": "The Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF, BATF, and BATFE) is a federal law enforcement organization within the United States Department of Justice.[4] Its responsibilities include the investigation and prevention of federal offenses involving the unlawful use, manufacture and possession of firearms and explosives; acts of arson and bombings; and illegal trafficking of alcohol and tobacco products. The ATF also regulates via licensing the sale, possession, and transportation of firearms, ammunition, and explosives in interstate commerce. Many of ATFs activities are carried out in conjunction with task forces made up of state and local law enforcement officers, such as Project Safe Neighborhoods. ATF operates a unique fire research laboratory in Beltsville, Maryland, where full-scale mock-ups of criminal arson can be reconstructed.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+			"humanURL": "http://atf.gov",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/bureau-of-alcohol-tobacco-firearms-and-explosives/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Product Hunt",
+			"x-api-slug": "product-hunt",
+			"description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyones talking about.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11269-product-hunt.jpg",
+			"humanURL": "http://producthunt.com",
+			"baseURL": "https://api.producthunt.com//v1",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/product-hunt/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Respoke",
+			"x-api-slug": "respoke",
+			"description": "Respoke makes it incredibly easy to add real-time communications capabilities to the things you build. Integrate text chat, audio calling, video collaboration, screen sharing, and peer-to-peer data with just a few lines of JavaScript.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/respoke-web-communications-300x101.jpg",
+			"humanURL": "https://www.respoke.io",
+			"baseURL": "https://api.respoke.io/v1/",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/respoke/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "hapi.js",
+			"x-api-slug": "hapi-js",
+			"description": "A rich framework for building applications and services. hapi enables developers to focus on writing reusable application logic instead of spending time building infrastructure.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hapi-js-logo.png",
+			"humanURL": "http://hapijs.com/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/hapi-js/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pingometer",
+			"x-api-slug": "pingometer",
+			"description": "Pingometer is a service that monitors the uptime, downtime, and performance of websites. Get 24/7 monitoring - sign up for your FREE account today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18847-pingometer.jpg",
+			"humanURL": "https://pingometer.com/",
+			"baseURL": "https://api.pingdom.com//",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/pingometer/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "appFigures",
+			"x-api-slug": "appfigures",
+			"description": "",
+			"image": "",
+			"humanURL": "https://appfigures.com/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/appfigures/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Shopify",
+			"x-api-slug": "shopify",
+			"description": "Shopify is a commerce platform that allows anyone to easily sell online at a retail location and everywhere in between. It offers a professional online storefront, a payment solution to accept credit cards, and the Shopify POS application to power retail sales.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png",
+			"humanURL": "https://www.shopify.com/",
+			"baseURL": "https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/shopify/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Apica",
+			"x-api-slug": "apica",
+			"description": "Apicas performance testing and monitoring solutions provide critical peak performance data and 24/7 monitoring of applications and sites around the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19004-apica.jpg",
+			"humanURL": "https://www.apicasystem.com",
+			"baseURL": ":///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/apica/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Hewlett Packard Enterprise (HPE)",
+			"x-api-slug": "hewlett-packard-enterprise-hpe",
+			"description": "We help customers use technology to slash the time it takes to turn ideas into value. In turn, they transform industries, markets and lives. Some of our customers run traditional IT environments. Most are transitioning to a secure, cloud-enabled, mobile-friendly infrastructure. Many rely on a combination of both. Wherever they are in that journey, we provide the technology and solutions to help them succeed.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HPE-logo.png",
+			"humanURL": "http://HPE.com",
+			"baseURL": "https://deic02-hpe.hpeonesphere.com//rest",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/hewlett-packard-enterprise-hpe/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "New Relic",
+			"x-api-slug": "new-relic",
+			"description": "New Relic???s digital intelligence platform lets developers, ops, and tech teams measure and monitor the performance of their applications and infrastructure.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg",
+			"humanURL": "https://newrelic.com/",
+			"baseURL": "https:///v2/",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Elastic Beanstalk",
+			"x-api-slug": "aws-elastic-beanstalk",
+			"description": "AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services developed with Java,.NET, PHP, Node.js, Python, Ruby, Go, andDockeron familiar servers such as Apache, Nginx, Passenger, andIIS.You can simply upload your code and Elastic Beanstalk automatically handles the deployment, from capacity provisioning, load balancing, auto-scaling to application health monitoring. At the same time, you retain full control over the AWS resources powering your application and can access the underlying resources at any time.There is no additional charge for Elastic Beanstalk - you pay only for the AWS resources needed to store and run your applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png",
+			"humanURL": "https://aws.amazon.com/elasticbeanstalk/",
+			"baseURL": ":///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS CodeDeploy",
+			"x-api-slug": "aws-codedeploy",
+			"description": "AWS CodeDeploy is a service that automates code deployments to any instance, including Amazon EC2 instances and instances running on-premises. AWS CodeDeploy makes it easier for you to rapidly release new features, helps you avoid downtime during application deployment, and handles the complexity of updating your applications. You can use AWS CodeDeploy to automate software deployments, eliminating the need for error-prone manual operations, and the service scales with your infrastructure so you can easily deploy to one instance or thousands.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png",
+			"humanURL": "https://aws.amazon.com/codedeploy/",
+			"baseURL": ":///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Config",
+			"x-api-slug": "aws-config",
+			"description": "AWS Config is a fully managed service that provides you with an AWS resource inventory, configuration history, and configuration change notifications to enable security and governance. Config Rules enables you to create rules that automatically check the configuration of AWS resources recorded by AWS Config.With AWS Config, you can discover existing and deleted AWS resources, determine your overall compliance against rules, and dive into configuration details of a resource at any point in time. These capabilities enable compliance auditing, security analysis, resource change tracking, and troubleshooting.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSConfig.png",
+			"humanURL": "https://aws.amazon.com/config/",
+			"baseURL": ":///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-config/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS OpsWorks",
+			"x-api-slug": "aws-opsworks",
+			"description": "AWS OpsWorks is a configuration management service that uses Chef, an automation platform that treats server configurations as code. OpsWorks uses Chef to automate how servers are configured, deployed, and managed across your Amazon Elastic Compute Cloud (Amazon EC2) instances or on-premises compute environments. OpsWorks has two offerings, AWS Opsworks for Chef Automate, and AWS OpsWorks Stacks.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png",
+			"humanURL": "https://aws.amazon.com/opsworks/",
+			"baseURL": ":///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Kinesis Analytics",
+			"x-api-slug": "aws-kinesis-analytics",
+			"description": "Amazon Kinesis Analytics is the easiest way to process streaming data in real time with standard SQL without having to learn new programming languages or processing frameworks. Amazon Kinesis Analytics enables you to create and run SQL queries on streaming data so that you can gain actionable insights and respond to your business and customer needs promptly.Amazon Kinesis Analytics takes care of everything required to run your queries continuously and scales automatically to match the volume and throughput rate of your incoming data. With Amazon Kinesis Analytics, you only pay for the resources your queries consume. There is no minimum fee or setup cost.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png",
+			"humanURL": "https://aws.amazon.com/kinesis/analytics/",
+			"baseURL": ":///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Simple Notification Service",
+			"x-api-slug": "aws-simple-notification-service",
+			"description": "Amazon Simple Notification Service (Amazon SNS) is a fast, flexible, fully managed push notification service that lets you send individual messages or to fan-out messages to large numbers of recipients. Amazon SNS makes it simple and cost effective to send push notifications to mobile device users, email recipients or even send messages to other distributed services.With Amazon SNS, you can send notifications to Apple, Google, Fire OS, and Windows devices, as well as to Android devices in China with Baidu Cloud Push. You can use SNS to send SMS messages to mobile device users worldwide.Beyond these endpoints, Amazon SNS can also deliver messages toAmazon Simple Queue Service(SQS),AWS Lambda functions, or to any HTTP endpoint.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png",
+			"humanURL": "https://aws.amazon.com/sns/",
+			"baseURL": ":///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS AppStream",
+			"x-api-slug": "aws-appstream",
+			"description": "Amazon AppStream is a fully managed, secure application streaming service that allows you to stream desktop applications from AWS to any device running a web browser, without rewriting them. Amazon AppStream 2.0 provides users instant-on access to the applications they need, and a responsive, fluid user experience on the device of their choice.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/appstream2_try_it_now_2_big.png",
+			"humanURL": "https://aws.amazon.com/appstream2/",
+			"baseURL": ":///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-appstream/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Marketplace Metering Service",
+			"x-api-slug": "aws-marketplace-metering-service",
+			"description": "AWS Marketplace provides a new sales channel for ISVs and Consulting Partners to sell their solutions to AWS customers. We make it easy for customers to find, buy, deploy and manage software solutions, including SaaS, in a matter of minutes. AWS Marketplace sellers can use this API to submit usage data for custom usage dimensions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-marketplace-icon.jpg",
+			"humanURL": "https://aws.amazon.com/marketplace/",
+			"baseURL": ":///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-marketplace-metering-service/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Apps Admin SDK",
+			"x-api-slug": "google-apps-admin-sdk",
+			"description": "Administer domain resources, create reports, and manage subscriptions. Use the Directory API to create and manage users and groups for a domain, along with their aliases. Programmatically access the functionality found at the Admin console Organization and users tab. Use the Reports API to gain insights on content management with Google Drive activity reports. Audit administrator actions. Generate customer and user usage reports.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nexusae0_icon2.png",
+			"humanURL": "https://developers.google.com/admin-sdk/",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-apps-admin-sdk/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Play",
+			"x-api-slug": "google-play",
+			"description": "The Google Play Developer API allows you to perform a number of publishing and app-management tasks. It includes two components: The Subscriptions and In-App Purchases API lets you manage in-app purchases and subscriptions. The Publishing API lets you upload and publish apps, and perform other publishing-related tasks.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-play.png",
+			"humanURL": "https://play.google.com/store",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-play/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google App Engine",
+			"x-api-slug": "google-app-engine",
+			"description": "Build modern web and mobile applications on an open cloud platform: bring your own language runtimes, frameworks, and third party libraries. Google App Engine is a fully managed platform that completely abstracts away infrastructure so you focus only on code. Go from zero to planet-scale and see why some of today&rsquo;s most successful companies power their applications on App Engine.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-app-engine-icon.png",
+			"humanURL": "https://cloud.google.com/appengine/",
+			"baseURL": "://appengine.googleapis.com//",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-app-engine/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure Batch",
+			"x-api-slug": "azure-batch",
+			"description": "Batch processing began with mainframe computers and punch cards. Today, it still plays a central role in business, engineering, science, and other areas that require running lots of automated tasks&mdash;processing bills and payroll, calculating portfolio risk, designing new products, rendering animated films, testing software, searching for energy, predicting the weather, and finding new cures for disease. Previously, few people had access to the computing power for these scenarios. With Azure Batch, that power is available to you when you need it, without any capital investment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-batch-100x-scale.png",
+			"humanURL": "https://azure.microsoft.com/en-us/services/batch/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-batch/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure HDInsight",
+			"x-api-slug": "azure-hdinsight",
+			"description": "Azure HDInsight is a Hadoop-based service that brings an Apache Hadoop solution to the cloud. Gain the full value of big data with a cloud-based data platform that manages data of any type and size.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-hdinsights-open-source-analytics.png",
+			"humanURL": "https://azure.microsoft.com/en-us/services/hdinsight/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-hdinsight/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure Service Fabric",
+			"x-api-slug": "azure-service-fabric",
+			"description": "Service Fabric is a microservices platform used to build scalable, reliable, and easily managed applications for the cloud. Addressing the significant challenges in developing and managing cloud applications, Service Fabric allows developers and administrators to avoid solving complex infrastructure problems and focus instead on implementing mission-critical, demanding workloads.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/service-fabric-02.png",
+			"humanURL": "https://azure.microsoft.com/en-us/services/service-fabric/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-service-fabric/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lykke",
+			"x-api-slug": "lykke",
+			"description": "Lykke is a movement to build one global marketplace that is a level playing field where everyone has access.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykke.jpg",
+			"humanURL": "https://lykke.com",
+			"baseURL": "https:////",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/lykke/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Stride",
+			"x-api-slug": "stride",
+			"description": "Stride is a cloud-based team business communication and collaboration tool, launched by Atlassian to replace the cloud-based version of HipChat. Stride software is available to download onto computers running Windows, Mac or Linux, as well as Android, iOS smartphones, and tablets",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg",
+			"humanURL": "https://www.stride.com/",
+			"baseURL": "https://api.atlassian.com//",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/stride/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Mattermost",
+			"x-api-slug": "mattermost",
+			"description": "Open source, private cloud Slack-alternative, Workplace messaging for web, PCs and phones. MIT-licensed. Hundreds of contributors. 14 languages. Secure, configurable, and scalable from teams to the enterprise.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png",
+			"humanURL": "https://mattermost.com",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Actility",
+			"x-api-slug": "actility",
+			"description": "Actility is the leader in low power wide area (LoRaWAN and 3GPP) network connectivity management for the Internet of Things: the ThingPark platform",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg",
+			"humanURL": "https://www.actility.com",
+			"baseURL": "https://dx-api.thingpark.com//maker/v011/api",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/actility/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Apptentive",
+			"x-api-slug": "apptentive",
+			"description": "Listen, retain, and engage your mobile customers w/ Apptentives in-app messaging, native surveys, customer feedback, ratings prompts, and customer support.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28324-apptentive.jpg",
+			"humanURL": "http://www.apptentive.com",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/apptentive/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Jumpseller",
+			"x-api-slug": "jumpseller",
+			"description": "We founded Jumpseller.com in 2009 in Europe  we called it Vendder back then  and released our first version of the Jumpseller product in September 2010. After releasing the product we quickly grew to thousands of customers. In November 2010, we recei...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg",
+			"humanURL": "http://jumpseller.com",
+			"baseURL": "https://api.jumpseller.com//v1",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/jumpseller/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "link.fish",
+			"x-api-slug": "link-fish",
+			"description": "Automatically get the information of the websites you are interested in and work with it together with others in real-time. Depending on the page you bookmark link.fish automatically extracts the data you actually care about. No matter if bedrooms for apartments, rating of movies or the cook time of your favorite recipe. Invite other people to your collection to work with them or make it public for everbody to see. All changes made will immediately be visible by everyone.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/link-fish-logo.png",
+			"humanURL": "http://link.fish",
+			"baseURL": "https://api.link.fish//",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/link-fish/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PayRun",
+			"x-api-slug": "payrun",
+			"description": "An open, scalable, transparent and HMRC accredited payroll API. Put the power of payroll into your application today.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28484-payrun-io.jpg",
+			"humanURL": "http://www.payrun.io",
+			"baseURL": "https://api.test.payrun.io//",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/payrun/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Apigee",
+			"x-api-slug": "apigee",
+			"description": "Apigee Edge is a platform for developing and managing API proxies. Think of a proxy as an abstraction layer that fronts for your backend service APIs and provides value-added features like security, rate limiting, quotas, analytics, and more. The primary consumers of Edge API proxies are app developers who want to use your backend services.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apigee-edge.png",
+			"humanURL": "https://docs.apigee.com/api-platform/get-started/what-apigee-edge",
+			"baseURL": "https://api.enterprise.apigee.com//v1/",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/apigee/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Yapily",
+			"x-api-slug": "yapily",
+			"description": "Yapily is how people connect to banks, easily! We are an API Only technology provider whose mission is to enable innovative products to connect to banks, empowering a new generation of financial services.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/yapily-logo.png",
+			"humanURL": "https://www.yapily.com",
+			"baseURL": "https://api.yapily.com:443//",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/yapily/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Predix",
+			"x-api-slug": "predix",
+			"description": "Predix (IoT PaaS) helps you develop apps that connect people with industrial machines through analytics and data for better business outcomes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png",
+			"humanURL": "https://www.predix.io",
+			"baseURL": "https:////v1",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Clover",
+			"x-api-slug": "clover",
+			"description": "Clover, a First Data company, builds the largest open-architecture point of sale solution aimed at small &amp; medium sized business owners. Our products are changing the consumer/merchant experience for the better, opening avenues for seamless customer-merchant interactions. There are five versions of Clover, including the Clover Station, Clover Mobile, Clover Mini, Clover Go, and Clover Flex. With Clover, First Data is aiming to create the largest open architecture operating system for commerce-enabling solutions and applications for business owners.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png",
+			"humanURL": "https://www.clover.com",
+			"baseURL": "https:///merchants/https://api.clover.com",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/clover/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GitLab",
+			"x-api-slug": "gitlab",
+			"description": "GitLab is a web-based Git-repository manager with wiki, issue-tracking and CI/CD pipelines features, using an open-source license, developed by GitLab Inc.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/githlab-logo.png",
+			"humanURL": "http://gitlab.com",
+			"baseURL": "https://localhost:3000//api",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/gitlab/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "EVRYTHNG",
+			"x-api-slug": "evrythng",
+			"description": "EVRYTHNG is the market leading internet of things platform for consumer product brands. Now individual product items can tell their stories to your business and your consumers throughout their lifecycle.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28871-evrythng-com.jpg",
+			"humanURL": "https://evrythng.com",
+			"baseURL": "https://example.com//",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/evrythng/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Vinli",
+			"x-api-slug": "vinli",
+			"description": "Vinli - The easiest, most advanced connected-car system in the world. Vinli is a platform for easily and quickly building connected car apps. Apps get vehicle data through Vinli services.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28875-www-vin-li.jpg",
+			"humanURL": "http://vinli.com",
+			"baseURL": "https://events.vin.li//api/v1",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/vinli/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure Blockchain Workbench",
+			"x-api-slug": "azure-blockchain-workbench",
+			"description": "Azure Blockchain Workbench helps organizations build rich, integrated multi-party blockchain applications quickly and easily. Azure Blockchain Workbench REST API provides developers and information workers a way to integrate to blockchain applications. For example, a developer can use the REST API to enable IoT devices to send data to a blockchain application. Or, an information worker can use the REST API and Power BI to create visualization of blockchain data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-blockchain.png",
+			"humanURL": "https://docs.microsoft.com/en-us/rest/api/azure-blockchain-workbench/",
+			"baseURL": "https:////",
+			"tags": "Applications",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/openapi.md"
 				}
 			]
 		},
@@ -34,59 +1256,355 @@
 			"name": "Dezrez",
 			"x-api-slug": "dezrez",
 			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
 			"tags": "Applications",
 			"properties": [
 				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/applications\/master\/_listings\/dezrez\/openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/openapi.md"
 				}
 			]
 		}
 	],
-	"x-common": [
-		{
-			"type": "x-github",
-			"url": "https:\/\/github.com\/dezrez"
-		},
-		{
-			"type": "x-openapi",
-			"url": "https:\/\/api.dezrez.com:443\/swagger\/docs\/v1"
-		},
-		{
-			"type": "x-api-gallery",
-			"url": "http:\/\/datumbox.api.gallery.streamdata.io"
-		},
-		{
-			"type": "x-api-stack",
-			"url": "http:\/\/dezrez.stack.network"
-		},
-		{
-			"type": "x-documentation",
-			"url": "https:\/\/api.dezrez.com\/swagger\/ui\/index#!\/AccountingExport"
-		},
-		{
-			"type": "x-support",
-			"url": "https:\/\/www.dezrez.com\/uk\/estate-agency-software-support"
-		},
-		{
-			"type": "x-twitter",
-			"url": "https:\/\/twitter.com\/dezrezsoftware"
-		},
-		{
-			"type": "x-website",
-			"url": "https:\/\/www.dezrez.com"
-		}
-	],
+	"tags": "Applications",
 	"include": [
-	],
-	"maintainers": [
 		{
-			"FN": "Kin Lane",
-			"x-twitter": "apievangelist",
-			"email": "info@apievangelist.com"
+			"name": "3scale",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/3scale/apis.yaml"
+		},
+		{
+			"name": "Urban Airship",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/urban-airship/apis.yaml"
+		},
+		{
+			"name": "Exicon",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/exicon/apis.yaml"
+		},
+		{
+			"name": "Twilio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/twilio/apis.yaml"
+		},
+		{
+			"name": "Clickatell",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/clickatell/apis.yaml"
+		},
+		{
+			"name": "Diffbot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/diffbot/apis.yaml"
+		},
+		{
+			"name": "Facebook",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/facebook/apis.yaml"
+		},
+		{
+			"name": "Heroku",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/heroku/apis.yaml"
+		},
+		{
+			"name": "Stripe",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/stripe/apis.yaml"
+		},
+		{
+			"name": "Tropo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/tropo/apis.yaml"
+		},
+		{
+			"name": "46elks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/46elks/apis.yaml"
+		},
+		{
+			"name": "AppsGeyser",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/appsgeyser/apis.yaml"
+		},
+		{
+			"name": "MasterCard",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mastercard/apis.yaml"
+		},
+		{
+			"name": "Server Density",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/server-density/apis.yaml"
+		},
+		{
+			"name": "Site24x7",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/site24x7/apis.yaml"
+		},
+		{
+			"name": "SugarSync",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/sugarsync/apis.yaml"
+		},
+		{
+			"name": "Loggly",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/loggly/apis.yaml"
+		},
+		{
+			"name": "Apsalar",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/apsalar/apis.yaml"
+		},
+		{
+			"name": "Atlassian",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/atlassian/apis.yaml"
+		},
+		{
+			"name": "BMC Software",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/bmc-software/apis.yaml"
+		},
+		{
+			"name": "Pidoco",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/pidoco/apis.yaml"
+		},
+		{
+			"name": "Progress Rollbase",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/progress-rollbase/apis.yaml"
+		},
+		{
+			"name": "Contentful",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/contentful/apis.yaml"
+		},
+		{
+			"name": "Deskmetrics",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/deskmetrics/apis.yaml"
+		},
+		{
+			"name": "TelAPI",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/telapi/apis.yaml"
+		},
+		{
+			"name": "TestFlight",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/testflight/apis.yaml"
+		},
+		{
+			"name": "Trigger Forge",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/trigger-forge/apis.yaml"
+		},
+		{
+			"name": "WorldMate",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/worldmate/apis.yaml"
+		},
+		{
+			"name": "TapCrowd",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/tapcrowd/apis.yaml"
+		},
+		{
+			"name": "Totango",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/totango/apis.yaml"
+		},
+		{
+			"name": "DeployGate",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/deploygate/apis.yaml"
+		},
+		{
+			"name": "Sift Science",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/sift-science/apis.yaml"
+		},
+		{
+			"name": "Bitly",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/bitly/apis.yaml"
+		},
+		{
+			"name": "Verivo Software",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/verivo-software/apis.yaml"
+		},
+		{
+			"name": "OpenLabel",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/openlabel/apis.yaml"
+		},
+		{
+			"name": "Pixate",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/pixate/apis.yaml"
+		},
+		{
+			"name": "StreamIn",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/streamin/apis.yaml"
+		},
+		{
+			"name": "SwipeIdentity",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/swipeidentity/apis.yaml"
+		},
+		{
+			"name": "Okta",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/okta/apis.yaml"
+		},
+		{
+			"name": "Appsee",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/appsee/apis.yaml"
+		},
+		{
+			"name": "CardFlight",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/cardflight/apis.yaml"
+		},
+		{
+			"name": "AppNeta",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/appneta/apis.yaml"
+		},
+		{
+			"name": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/bureau-of-alcohol-tobacco-firearms-and-explosives/apis.yaml"
+		},
+		{
+			"name": "Product Hunt",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/product-hunt/apis.yaml"
+		},
+		{
+			"name": "Respoke",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/respoke/apis.yaml"
+		},
+		{
+			"name": "hapi.js",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/hapi-js/apis.yaml"
+		},
+		{
+			"name": "Pingometer",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/pingometer/apis.yaml"
+		},
+		{
+			"name": "appFigures",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/appfigures/apis.yaml"
+		},
+		{
+			"name": "Shopify",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/shopify/apis.yaml"
+		},
+		{
+			"name": "Apica",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/apica/apis.yaml"
+		},
+		{
+			"name": "Hewlett Packard Enterprise (HPE)",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/hewlett-packard-enterprise-hpe/apis.yaml"
+		},
+		{
+			"name": "New Relic",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/new-relic/apis.yaml"
+		},
+		{
+			"name": "AWS Elastic Beanstalk",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-elastic-beanstalk/apis.yaml"
+		},
+		{
+			"name": "AWS CodeDeploy",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-codedeploy/apis.yaml"
+		},
+		{
+			"name": "AWS Config",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-config/apis.yaml"
+		},
+		{
+			"name": "AWS OpsWorks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-opsworks/apis.yaml"
+		},
+		{
+			"name": "AWS Kinesis Analytics",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-kinesis-analytics/apis.yaml"
+		},
+		{
+			"name": "AWS Simple Notification Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-simple-notification-service/apis.yaml"
+		},
+		{
+			"name": "AWS AppStream",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-appstream/apis.yaml"
+		},
+		{
+			"name": "AWS Marketplace Metering Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/aws-marketplace-metering-service/apis.yaml"
+		},
+		{
+			"name": "Google Apps Admin SDK",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-apps-admin-sdk/apis.yaml"
+		},
+		{
+			"name": "Google Play",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-play/apis.yaml"
+		},
+		{
+			"name": "Google App Engine",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/google-app-engine/apis.yaml"
+		},
+		{
+			"name": "Azure Batch",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-batch/apis.yaml"
+		},
+		{
+			"name": "Azure HDInsight",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-hdinsight/apis.yaml"
+		},
+		{
+			"name": "Azure Service Fabric",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-service-fabric/apis.yaml"
+		},
+		{
+			"name": "Lykke",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/lykke/apis.yaml"
+		},
+		{
+			"name": "Stride",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/stride/apis.yaml"
+		},
+		{
+			"name": "Mattermost",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/mattermost/apis.yaml"
+		},
+		{
+			"name": "Actility",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/actility/apis.yaml"
+		},
+		{
+			"name": "Apptentive",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/apptentive/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Jumpseller",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/jumpseller/apis.yaml"
+		},
+		{
+			"name": "link.fish",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/link-fish/apis.yaml"
+		},
+		{
+			"name": "PayRun",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/payrun/apis.yaml"
+		},
+		{
+			"name": "Apigee",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/apigee/apis.yaml"
+		},
+		{
+			"name": "Yapily",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/yapily/apis.yaml"
+		},
+		{
+			"name": "Predix",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/predix/apis.yaml"
+		},
+		{
+			"name": "Clover",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/clover/apis.yaml"
+		},
+		{
+			"name": "GitLab",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/gitlab/apis.yaml"
+		},
+		{
+			"name": "EVRYTHNG",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/evrythng/apis.yaml"
+		},
+		{
+			"name": "Vinli",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/vinli/apis.yaml"
+		},
+		{
+			"name": "Azure Blockchain Workbench",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/azure-blockchain-workbench/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/applications/master/_listings/dezrez/apis.yaml"
 		}
 	]
 }
